@@ -64,6 +64,7 @@ def remove_filler(text):
     text = re.sub(r'\n<i>\s{6}', r'', text)
     text = re.sub(r'<i>\s*', r'', text)
     text = re.sub(r'</i>', r'', text)
+    text = re.sub(r'</b>', r'', text)
     text = re.sub(r'\n\[', r' [', text)
     text = re.sub(r'\n\(', r' (', text)
     return text
@@ -74,9 +75,28 @@ text = remove_filler(text)
 while re.search(r'(##.*?)\n\n##.  ', text):
     text = re.sub(r'(##.*?)\n\n##.  ', r'\1', text)
 
+# correct when the area stays on the first line
+text = re.sub(r'(##C  \d+  .*?      [a-z]+( [a-z]+)?)[ ]*([A-Z].*)\n', r'\1\n\3\n', text)
+
+# correct multi lined areas
+while re.search(r'(##C.*?)\n(.*?)\n[^\@|SIN|VAR]', text):
+    text = re.sub(r'(##C.*?)\n(.*?)\n([^\@|SIN|VAR].*?)\n', r'\1\n\2\3\n', text)
+
 # correct multi lined "SIN.-"
 while re.search(r'(SIN\.-.*?)\n[^\@]', text):
     text = re.sub(r'(SIN\.-.*?)\n([^\@].*?)\n', r'\1 \2\n', text)
+
+# correct multi lined "Vid.-"
+while re.search(r'(Vid\.-?.*?)\n(.+?)\n', text):
+    text = re.sub(r'(Vid\.-?.*?)\n(.+?)\n', r'\1 \2\n\n', text)
+
+# correct multi lined "VAR.-"
+while re.search(r'(VAR\.-.*?)\n[^\@]', text):
+    text = re.sub(r'(VAR\.-.*?)\n([^\@].*?)\n', r'\1 \2\n', text)
+
+# correct multi lined languages
+while re.search(r'(\@.*?)\n[^\@|\s|NOTA]', text):
+    text = re.sub(r'(\@.*?)\n([^\@|\s|NOTA].*?)\n', r'\1\2\n', text)
 
 # correct multi lined "Nota.-"
 while re.search(r'(Nota\.-.*?)\n(.+?)\n', text):

@@ -285,10 +285,9 @@ Bioquímica        Fisioloxía
 SIN.- HCl (sb)
 @es  ácido clorhídrico
 @en  hydrochloric acid
-@pt  ácido clorídrico
-34
+@pt  ácido clorídrico34
 
-##R  ácido desoxirribonucleico      m
+##C  34  ácido desoxirribonucleico      m
 Bioquímica
 SIN.- ADN; (sg) DNA (sg)
 @es  ácido desoxirribonucleico; ADN (sg); DNA (sg)
@@ -502,8 +501,8 @@ Patoloxías        Semioloxía
 @pt  acromegalia
 
 ##R  acromelalxia
-Vid.- síndrome das
-pernas inquedas
+Vid.- síndrome das pernas inquedas
+
 
 ##C  61  acromía      f
 Semioloxía
@@ -543,8 +542,8 @@ Semioloxía
 @pt  acro-osteólise; acrosteólise
 
 ##R  ACTH
-Vid.- hormona
-adrenocorticotrópica
+Vid.- hormona adrenocorticotrópica
+
 
 ##C  66  actina      f
 Bioquímica
@@ -878,8 +877,7 @@ Patoloxías
 Nota.- Designa un ‘estado de deficiencia inmunolóxica caracterizado por concentración moi baixa de todas as clases de globulinas gamma no sangue’. Cfr. con “hipogammaglobulinemia”.
 
 ##C  108  aglutinación      f
-Probas complementarias        
-Etiopatoxenia
+Probas complementarias        Etiopatoxenia
 @es  aglutinación
 @en  agglutination
 @pt  aglutinação
@@ -955,12 +953,12 @@ Instrumental
 @pt  agulha
 
 ##R  AINE
-Vid.- antiinflamatorio
-non-esteroide
+Vid.- antiinflamatorio non-esteroide
+
 
 ##R  AIT
-Vid.- accidente isquémico
-transitorio
+Vid.- accidente isquémico transitorio
+
 
 ##R  Ala 
 Vid.- alanina
@@ -1078,8 +1076,8 @@ Xenética
 @pt  alelo
 
 ##R  alento hepático
-Vid.- fetor
-hepaticus
+Vid.- fetor hepaticus
+
 
 ##C  132  alento urémico      m
 Semioloxía
@@ -1382,8 +1380,8 @@ Terapéutica        Probas complementarias
 Vid.- adenosinmonofosfato cíclico
 
 ##R  AMPc 
-Vid.- adenosinmonofosfato
-cíclico
+Vid.- adenosinmonofosfato cíclico
+
 
 ##C  174  amplificación      f
 Xenética
@@ -1405,8 +1403,8 @@ SIN.- flictena; bocha [pop.]; vexiga [pop.]
 @pt  bolha; flictena; empola
 
 ##R  ampuloma
-Vid.- carcinoma da
-ampola de Vater
+Vid.- carcinoma da ampola de Vater
+
 
 ##C  177  amputación      f
 Terapéutica
@@ -1447,8 +1445,8 @@ Vid.- alérxeno
 Vid.- reacción anafiláctica
 
 ##R  anafilaxia
-Vid.- reacción
-anafiláctica
+Vid.- reacción anafiláctica
+
 
 ##C  181  análise      f
 Probas complementarias
@@ -1457,8 +1455,8 @@ Probas complementarias
 @pt  análise
 
 ##R  análise de LCR
-Vid.- análise de
-líquido cefalorraquídeo
+Vid.- análise de líquido cefalorraquídeo
+
 
 ##C  182  análise de líquido cefalorraquídeo      f
 Probas complementarias
@@ -1468,12 +1466,12 @@ SIN.- análise de LCR; exame de líquido cefalorraquídeo (m); exame de LCR (m)
 @pt  análise do LCR; análise do líquido cefalorraquidiano; exame do LCR; exame do líquido cefalorraquidiano
 
 ##R  *análise de mexo 
-Vid.- análise
-de urina
+Vid.- análise de urina
+
 
 ##R  *análise de ouriños
-Vid.-
-análise de urina
+Vid.- análise de urina
+
 
 ##C  183  análise de sangue      f
 Probas complementarias
@@ -1644,12 +1642,12 @@ VAR.- anemia aplástica
 @pt  anemia aplásica; anemia aplástica
 
 ##R  anemia aplástica 
-Vid.- anemia
-aplásica
+Vid.- anemia aplásica
+
 
 ##R  anemia carencial 
-Vid.- anemia
-nutricional
+Vid.- anemia nutricional
+
 
 ##R  anemia drepanocítica
 Vid.- anemia falciforme
@@ -1937,8 +1935,8 @@ Farmacoloxía
 @pt  antagonista da aldosterona
 
 ##R  antagonista da anxiotensina II
-Vid.- antagonista dos receptores da
-anxiotensina II
+Vid.- antagonista dos receptores da anxiotensina II
+
 
 ##C  245  antagonista da serotonina      m
 Farmacoloxía
@@ -1970,10 +1968,9 @@ Farmacoloxía
 Farmacoloxía
 @es  antagonista de receptores de leucotrienos
 @en  leukotriene receptor antagonist
-@pt  antagonista dos receptores de leucotrienos
-250
+@pt  antagonista dos receptores de leucotrienos250
 
-##R  antagonista dos receptores H2      m
+##C  250  antagonista dos receptores H2      m
 Farmacoloxía
 @es  antagonista de receptores H2
 @en  H-2 receptor antagonist
@@ -2051,8 +2048,8 @@ Farmacoloxía
 @pt  antiagregante
 
 ##R  antiagregante
-Vid.- inhibidor da
-agregación plaquetaria
+Vid.- inhibidor da agregación plaquetaria
+
 
 ##C  261  antialérxico      m
 Farmacoloxía
@@ -2807,8 +2804,8 @@ SIN.- complexo de Golgi
 @pt  aparelho de Golgi; complexo de Golgi
 
 ##R  aparello dixestivo
-Vid.- sistema
-dixestivo
+Vid.- sistema dixestivo
+
 
 ##R  aparello locomotor 
 Vid.- sistema locomotor
@@ -2820,15 +2817,15 @@ Vid.- sistema xenital
 Vid.- sistema respiratorio
 
 ##R  aparello urinario
-Vid.- sistema
-urinario
+Vid.- sistema urinario
+
 
 ##R  aparello uroxenital
 Vid.- sistema uroxenital
 
 ##R  aparello xenital
-Vid.- sistema
-xenital
+Vid.- sistema xenital
+
 
 ##R  aparello xenitourinario
 Vid.- sistema uroxenital
@@ -2850,8 +2847,8 @@ Semioloxía
 Vid.- apendicectomía
 
 ##R  apéndice
-Vid.- apéndice
-vermiforme
+Vid.- apéndice vermiforme
+
 
 ##C  362  apéndice auricular      m
 Anatomía
@@ -3013,8 +3010,8 @@ SIN.- proceso xifoide (m) VAR.- apófise xifoidea
 @la  processus xiphoideus
 
 ##R  apófise xifoidea
-Vid.- apófise
-xifoide
+Vid.- apófise xifoide
+
 
 ##C  382  aponeurose      f
 Anatomía
@@ -3080,8 +3077,8 @@ VAR.- aquilia
 @pt  aquilia
 
 ##R  ARA II
-Vid.- antagonista dos
-receptores da anxiotensina II
+Vid.- antagonista dos receptores da anxiotensina II
+
 
 ##R  aracnite
 Vid.- aracnoidite
@@ -3112,8 +3109,8 @@ VAR.- aracnite
 Vid.- telanxiectasia
 
 ##R  árbore familiar 
-Vid.- árbore
-xenealóxica
+Vid.- árbore xenealóxica
+
 
 ##C  394  árbore xenealóxica      f
 Xenética
@@ -3126,8 +3123,8 @@ SIN.- árbore familiar
 Vid.- náusea
 
 ##R  arcada alveolar 
-Vid.- arco
-alveolar
+Vid.- arco alveolar
+
 
 
 ##C  395  arco alveolar      m
@@ -3164,8 +3161,8 @@ SIN.- rebordo costal
 @la  arcus costalis
 
 ##R  arco crural 
-Vid.- ligamento
-inguinal
+Vid.- ligamento inguinal
+
 
 ##R  arco da aorta
 Vid.- arco aórtico
@@ -3180,8 +3177,8 @@ VAR.- arco da vea ázigos
 Nota.- Evítese “caxato da vea ácigos”.
 
 ##R  arco da vea ázigos
-Vid.- arco da
-vea ácigos
+Vid.- arco da vea ácigos
+
 
 ##C  400  arco iliopectíneo      m
 Anatomía
@@ -3192,8 +3189,8 @@ SIN.- fascia iliopectínea (f)
 @la  arcus iliopectineus
 
 ##R  arco inguinal
-Vid.- ligamento
-inguinal
+Vid.- ligamento inguinal
+
 
 ##R  arco neural 
 Vid.- arco vertebral
@@ -3207,8 +3204,8 @@ SIN.- arco neural
 @la  arcus vertebrae
 
 ##R  área asociativa
-Vid.- área de
-asociación
+Vid.- área de asociación
+
 
 
 ##C  402  área auditiva      f
@@ -3262,8 +3259,8 @@ Vid.- arxinina
 Vid.- ácido ribonucleico
 
 ##R  arrefriado común
-Vid.- catarro
-común
+Vid.- catarro común
+
 
 ##R  arreguizo
 Vid.- calafrío
@@ -3330,8 +3327,8 @@ SIN.- arteria humeral
 @la  arteria brachialis
 
 ##R  arteria carótide
-Vid.- arteria
-carótide común
+Vid.- arteria carótide común
+
 
 ##C  415  arteria carótide común      f
 Anatomía
@@ -3370,8 +3367,8 @@ VAR.- arteria cerebelosa
 @la  arteria cerebelli
 
 ##R  arteria cerebelosa
-Vid.- arteria
-cerebelar
+Vid.- arteria cerebelar
+
 
 ##C  419  arteria cerebral anterior      f
 Anatomía
@@ -3509,12 +3506,12 @@ Anatomía
 @la  arteria hepatica communis
 
 ##R  arteria hipogástrica
-Vid.- arteria
-ilíaca interna
+Vid.- arteria ilíaca interna
+
 
 ##R  arteria humeral 
-Vid.- arteria
-braquial
+Vid.- arteria braquial
+
 
 ##C  437  arteria ilíaca común      f
 Anatomía
@@ -3613,8 +3610,8 @@ Anatomía
 @la  arteria pancreatica dorsalis
 
 ##R  arteria peroneal
-Vid.- arteria
-fibular
+Vid.- arteria fibular
+
 
 ##C  449  arteria poplítea      f
 Anatomía
@@ -3881,10 +3878,10 @@ Nota.- Evítese “articulación sellar”.
 Vid.- articulación por encaixe recíproco
 
 ##R  *articulación sellar
-Vid.- articulación por encaixe recíproco
-484
+Vid.- articulación por encaixe recíproco 484
 
-##R  articulación sinovial      f
+
+##C  484  articulación sinovial      f
 Anatomía
 SIN.- diartrose; articulación diartrodial
 @es  articulación sinovial; diartrosis
@@ -3923,12 +3920,12 @@ Patoloxías
 @pt  artrite
 
 ##R  artrite bacteriana
-Vid.- artrite
-séptica
+Vid.- artrite séptica
+
 
 ##R  artrite infecciosa
-Vid.- artrite
-séptica
+Vid.- artrite séptica
+
 
 ##C  489  artrite reumatoide      f
 Patoloxías
@@ -4089,8 +4086,8 @@ Nota.- Cfr. con “hospitalización a domicilio”
 Vid.- atención especializada
 
 ##R  asistencia médica
-Vid.- atención
-médica
+Vid.- atención médica
+
 
 ##R  asistencia primaria
 Vid.- atención primaria
@@ -4255,12 +4252,12 @@ Semioloxía
 @pt  ataxia
 
 ##R  ataxia cerebelosa 
-Vid.- marcha
-cerebelosa
+Vid.- marcha cerebelosa
+
 
 ##R  ataxia vestibular 
-Vid.- marcha
-vestibular
+Vid.- marcha vestibular
+
 
 ##C  530  atelectasia      f
 Semioloxía
@@ -4361,10 +4358,10 @@ SIN.- vértebra CI; CI (sg)
 Vid.- nebulización
 
 ##R  atomizador 
-Vid.- nebulizador
-544
+Vid.- nebulizador 544
 
-##R  atopía      f
+
+##C  544  atopía      f
 Etiopatoxenia
 @es  atopia
 @en  atopy
@@ -4392,8 +4389,8 @@ Anatomía patolóxica
 Vid.- aurícula dereita
 
 ##R  atrio esquerdo
-Vid.- aurícula
-esquerda
+Vid.- aurícula esquerda
+
 
 ##C  547  atriograma      m
 Probas complementarias
@@ -4573,8 +4570,8 @@ SIN.- autoplastia (f)
 Nota.- Designa a ‘operación de tomar unha porción de tecido dunha parte do corpo e enxertalo noutra parte do mesmo corpo’. Cfr. con “autoenxerto”.
 
 ##R  auxiliar de clínica
-Vid.- auxiliar
-de enfermería
+Vid.- auxiliar de enfermería
+
 
 ##C  569  auxiliar de enfermaría      s
 Organización sanitaria
@@ -4707,8 +4704,8 @@ Bioquímica
 @pt  açúcar
 
 ##R  BAAR
-Vid.- bacilo ácido-alcol-
-resistente
+Vid.- bacilo ácido-alcol- resistente
+
 
 ##C  581  bacilo      m
 Etiopatoxenia
@@ -4794,8 +4791,8 @@ Patoloxías
 @pt  baixa estatura familiar
 
 ##R  balance calórico
-Vid.- balance
-enerxético
+Vid.- balance enerxético
+
 
 ##C  592  balance enerxético      m
 Fisioloxía
@@ -4857,8 +4854,8 @@ SIN.- balón intraaórtico
 @pt  balão intra-aórtico
 
 ##R  balón intraaórtico
-Vid.- balón
-de contrapulsación aórtico
+Vid.- balón de contrapulsación aórtico
+
 
 ##C  600  bálsamo      m
 Farmacoloxía
@@ -5578,8 +5575,8 @@ Anatomía
 @la  bulbus penis
 
 ##R  bulbo olfactivo
-Vid.- bulbo
-olfactorio
+Vid.- bulbo olfactorio
+
 
 ##C  692  bulbo olfactorio      m
 Anatomía
@@ -5709,8 +5706,8 @@ Termos xerais
 Vid.- cordón umbilical
 
 ##R  cadro de lectura
-Vid.- marco de
-lectura
+Vid.- marco de lectura
+
 
 ##C  706  cafeína      f
 Etiopatoxenia
@@ -5856,12 +5853,12 @@ Probas complementarias
 @pt  calorimetria
 
 ##R  calota cranial
-Vid.- bóveda
-cranial
+Vid.- bóveda cranial
+
 
 ##R  calota craniana
-Vid.- bóveda
-cranial
+Vid.- bóveda cranial
+
 
 ##C  726  caluga      f
 Anatomía
@@ -5891,8 +5888,8 @@ Anatomía
 @la  camera posterior bulbi oculi
 
 ##R  cámara postrema 
-Vid.- cámara
-vítrea
+Vid.- cámara vítrea
+
 
 ##C  730  cámara vítrea      f
 Anatomía
@@ -5952,12 +5949,12 @@ SIN.- canal auriculoventricular; canal AV
 Vid.- canal atrioventricular
 
 ##R  canal AV
-Vid.- canal
-atrioventricular
+Vid.- canal atrioventricular
+
 
 ##R  canal basilar
-Vid.-
-clivus
+Vid.- clivus
+
 
 ##C  737  canal inguinal      m
 Anatomía
@@ -6196,23 +6193,23 @@ Nota.- Designa a ‘parte anterior da cabeza’. Cfr. con “facies”.
 Vid.- face
 
 ##R  cara acromegálica
-Vid.- facies
-acromegálica
+Vid.- facies acromegálica
+
 
 ##R  cara articular  
 Vid.- face articular
 
 ##R  cara de lúa chea
-Vid.- facies de
-lúa chea
+Vid.- facies de lúa chea
+
 
 ##R  cara de máscara
-Vid.- facies de
-máscara
+Vid.- facies de máscara
+
 
 ##R  cara de querubín
-Vid.- facies de
-querubín
+Vid.- facies de querubín
+
 
 ##R  cara leonina
 Vid.- facies leonina
@@ -6462,8 +6459,8 @@ SIN.- antiflatulento
 @pt  antiflatulento; anti-flatulento; carminativo
 
 ##R  carótide
-Vid.- arteria carótide
-común
+Vid.- arteria carótide común
+
 
 ##R  carotomía
 Vid.- iridotomía
@@ -6809,8 +6806,8 @@ VAR.- cavidade pélvica
 @la  cavitas pelvis; cavum pelvis
 
 ##R  cavidade pélvica 
-Vid.- cavidade
-pelviana
+Vid.- cavidade pelviana
+
 
 ##C  841  cavidade peritoneal      f
 Anatomía
@@ -6838,8 +6835,8 @@ Anatomía
 Vid.- neutrófilo en banda
 
 ##R  *caxato da aorta
-Vid.- arco
-aórtico
+Vid.- arco aórtico
+
 
 ##R  *caxato da vea ácigos      
 Vid.- arco da vea ácigos
@@ -7085,8 +7082,8 @@ Histoloxía
 @pt  célula oxífila
 
 ##R  célula oxíntica
-Vid.- célula
-parietal
+Vid.- célula parietal
+
 
 ##C  871  célula parietal      f
 Histoloxía
@@ -7096,8 +7093,8 @@ SIN.- célula oxíntica
 @pt  célula oxíntica; célula parietal
 
 ##R  célula péptica 
-Vid.- célula
-principal
+Vid.- célula principal
+
 
 ##C  872  célula plasmática      f
 Histoloxía
@@ -7163,8 +7160,8 @@ SIN.- ambulatorio
 @pt  centro de saúde
 
 ##R  centro frénico
-Vid.- centro
-tendinoso do diafragma
+Vid.- centro tendinoso do diafragma
+
 
 ##C  880  centro tendinoso do diafragma      m
 Anatomía
@@ -7369,8 +7366,8 @@ Etiopatoxenia
 @pt  choque obstrutivo
 
 ##R  choque quente 
-Vid.- choque
-hiperdinámico
+Vid.- choque hiperdinámico
+
 
 ##C  907  choque séptico      m
 Patoloxías        Etiopatoxenia
@@ -7545,12 +7542,12 @@ Bioquímica
 @pt  cinina
 
 ##R  cintiña olfactiva
-Vid.- tracto
-olfactorio
+Vid.- tracto olfactorio
+
 
 ##R  cintiña olfactoria
-Vid.- tracto
-olfactorio
+Vid.- tracto olfactorio
+
 
 ##R  cintiña óptica
 Vid.- tracto óptico
@@ -7570,8 +7567,8 @@ Vid.- cintura pélvica
 Vid.- cintura pectoral
 
 ##R  cintura escapular
-Vid.- cintura
-pectoral
+Vid.- cintura pectoral
+
 
 ##C  932  cintura pectoral      f
 Anatomía
@@ -7590,8 +7587,8 @@ SIN.- cintura do membro inferior
 @la  cingulum membri inferioris; cingulum pelvicum
 
 ##R  cintura torácica
-Vid.- cintura
-pectoral
+Vid.- cintura pectoral
+
 
 ##C  934  circulación      f
 Fisioloxía
@@ -7677,8 +7674,8 @@ SIN.- cirrose hepática alcohólica; cirrose hepática alcólica VAR.- cirrose a
 @pt  cirrose alcoólica; cirrose hepática alcoólica
 
 ##R  cirrose alcólica
-Vid.- cirrose
-alcohólica
+Vid.- cirrose alcohólica
+
 
 ##C  944  cirrose biliar      f
 Patoloxías
@@ -7908,8 +7905,8 @@ VAR.- uretrocistografía miccional
 @pt  cistouretrografia miccional; UCM (sg); uretrocistografia miccional
 
 ##R  cisura calcarina
-Vid.- suco
-calcarino
+Vid.- suco calcarino
+
 
 ##R  cisura calosomarxinal      
 Vid.- xiro cingular
@@ -8182,8 +8179,8 @@ Semioloxía
 @pt  cloridorréia [Br.]; cloridorreia [Pt.]
 
 ##R  CMH
-Vid.- complexo principal de
-histocompatibilidade
+Vid.- complexo principal de histocompatibilidade
+
 
 ##R  CMV
 Vid.- citomegalovirus
@@ -8325,8 +8322,8 @@ Anatomía
 @pt  couro cabeludo
 
 ##R  cola de cabalo
-Vid.-
-cauda equina
+Vid.- cauda equina
+
 
 ##C  1028  colanxiocarcinoma      m
 Anatomía patolóxica
@@ -8348,8 +8345,8 @@ SIN.- colanxiografía transparietohepática
 @pt  colangiografia transparietohepática
 
 ##R  colanxiografía transparietohepática      
-Vid.- colanxiografía percutánea
-transhepática
+Vid.- colanxiografía percutánea transhepática
+
 
 ##C  1031  colanxioma      m
 Anatomía patolóxica
@@ -8407,8 +8404,8 @@ Etiopatoxenia
 Vid.- atelectasia
 
 ##R  colar cervical
-Vid.- colar
-ortopédico
+Vid.- colar ortopédico
+
 
 ##C  1039  colar ortopédico      m
 Instrumental
@@ -8880,8 +8877,8 @@ Bioquímica
 Vid.- aparello de Golgi
 
 ##R  complexo maior de histocompatibilidade       
-Vid.- complexo principal de
-histocompatibilidade
+Vid.- complexo principal de histocompatibilidade
+
 
 ##C  1099  complexo principal de histocompatibilidade  m  
 Bioquímica
@@ -9123,8 +9120,8 @@ Anatomía
 @la  ductus cysticus
 
 ##R  conduto colédoco
-Vid.- conduto
-biliar
+Vid.- conduto biliar
+
 
 ##C  1133  conduto deferente      m
 Anatomía
@@ -9163,8 +9160,8 @@ Anatomía
 @la  ductus thoracicus
 
 ##R  conduto vertebral
-Vid.- canal
-vertebral
+Vid.- canal vertebral
+
 
 ##R  conectivopatía      
 Vid.- colaxenopatía
@@ -9428,8 +9425,8 @@ Vid.- xiba
 Vid.- tendón
 
 ##R  corda do tímpano 
-Vid.- nervio
-da corda do tímpano
+Vid.- nervio da corda do tímpano
+
 
 ##R  corda vocal falsa
 Vid.- pregadura vestibular
@@ -9550,16 +9547,16 @@ Patoloxías
 
 
 ##R  corioblastoma
-Vid.- enfermidade
-trofoblástica xestacional
+Vid.- enfermidade trofoblástica xestacional
+
 
 ##R  coriocarcinoma 
-Vid.- enfermidade trofoblástica
-xestacional
+Vid.- enfermidade trofoblástica xestacional
+
 
 ##R  corioepitelioma
-Vid.- enfermidade trofoblástica
-xestacional
+Vid.- enfermidade trofoblástica xestacional
+
 
 ##C  1186  corion      m
 Histoloxía
@@ -9587,16 +9584,16 @@ Anatomía
 Vid.- queratite
 
 ##R  corneto inferior
-Vid.- cuncha
-nasal inferior
+Vid.- cuncha nasal inferior
+
 
 ##R  corneto medio
-Vid.- cuncha nasal
-media
+Vid.- cuncha nasal media
+
 
 ##R  corneto superior
-Vid.- cuncha
-nasal superior
+Vid.- cuncha nasal superior
+
 
 ##C  1189  corno      m
 Anatomía
@@ -9608,8 +9605,7 @@ SIN.- hasta (f)
 
 ##C  1190  coroa radiada      f
 Histoloxía
-VAR.-
-corona radiata
+VAR.- corona radiata
 @es  corona radiada; corona radiata
 @en  corona radiata; radiate crown
 @pt  coroa radiada; corona radiata
@@ -9632,8 +9628,8 @@ SIN.- uveíte posterior
 Vid.- retinocoroidite
 
 ##R  corona radiata
-Vid.- coroa
-radiada
+Vid.- coroa radiada
+
 
 ##C  1193  coronariografía      f
 Probas complementarias
@@ -9660,13 +9656,13 @@ Anatomía
 @la  corpus
 
 ##R  corpo albicans
-Vid.-
-corpus 
+Vid.- corpus 
+
 albicans
 
 ##R  corpo amarelo
-Vid.-
-corpus 
+Vid.- corpus 
+
 luteum
 
 ##C  1196  corpo amiláceo      m
@@ -9676,8 +9672,8 @@ Histoloxía
 @pt  corpo amiláceo; corpo amilóide
 
 ##R  corpo branco
-Vid.-
-corpus 
+Vid.- corpus 
+
 albicans
 
 ##C  1197  corpo caloso      m
@@ -9718,8 +9714,8 @@ Termos xerais
 @pt  corpo humano
 
 ##R  corpo lúteo
-Vid.-
-corpus luteum
+Vid.- corpus luteum
+
 
 ##C  1202  corpo mamilar      m
 Anatomía
@@ -9781,8 +9777,8 @@ Terapéutica
 @pt  corpete
 
 ##R  córtex auditivo
-Vid.- área
-auditiva
+Vid.- área auditiva
+
 
 ##C  1209  córtex cerebeloso      m
 Anatomía
@@ -9803,12 +9799,12 @@ SIN.- manto cerebral
 Vid.- área motora
 
 ##R  córtex sensitivo 
-Vid.- área
-sensitiva
+Vid.- área sensitiva
+
 
 ##R  córtex sensorial
-Vid.- área
-sensitiva
+Vid.- área sensitiva
+
 
 
 ##C  1211  corticoide      m
@@ -9822,8 +9818,8 @@ VAR.- corticosteroide
 Vid.- corticoide
 
 ##R  corticotropina
-Vid.- hormona
-adrenocorticotrópica
+Vid.- hormona adrenocorticotrópica
+
 
 ##C  1212  cortisol      m
 Bioquímica        Fisioloxía
@@ -9881,8 +9877,8 @@ Anatomía
 @la  costa vera
 
 ##R  costocartilaxe 
-Vid.- cartilaxe
-costal
+Vid.- cartilaxe costal
+
 
 ##C  1218  costocondrite      f
 Patoloxías
@@ -9919,20 +9915,20 @@ Anatomía
 @la  femur
 
 ##R  COXIB
-Vid.- inhibidor selectivo da
-cicloosixenase
+Vid.- inhibidor selectivo da cicloosixenase
+
 
 ##R  CPH  
-Vid.- complexo principal de
-histocompatibilidade
+Vid.- complexo principal de histocompatibilidade
+
 
 ##R  CPRE
-Vid.- colanxiopancreatografía
-retrógrada endoscópica
+Vid.- colanxiopancreatografía retrógrada endoscópica
+
 
 ##R  CPT 
-Vid.- capacidade pulmonar
-total
+Vid.- capacidade pulmonar total
+
 
 ##C  1223  crack      m
 Etiopatoxenia
@@ -9988,8 +9984,8 @@ Semioloxía
 @pt  rash sifilítico
 
 ##R  creatina cinase
-Vid.- creatina
-quinase
+Vid.- creatina quinase
+
 
 ##C  1230  creatina quinase      f
 Bioquímica
@@ -10047,12 +10043,12 @@ SIN.- sinal de Hamman (m)
 Nota.- Evítese “ruxido mediastínico”.
 
 ##R  cretinismo
-Vid.- mixedema
-conxénito
+Vid.- mixedema conxénito
+
 
 ##R  CRH
-Vid.- hormona liberadora de
-corticotropina
+Vid.- hormona liberadora de corticotropina
+
 
 ##R  cricoide
 Vid.- cartilaxe cricoide
@@ -10125,8 +10121,8 @@ Anatomía
 @la  crista
 
 ##R  crista de galo
-Vid.-
-crista galli
+Vid.- crista galli
+
 
 ##C  1246 crista galli f
 Anatomía
@@ -10171,8 +10167,8 @@ Xenética
 @pt  cromatina
 
 ##R  cromatina de Barr
-Vid.- corpo
-de Barr
+Vid.- corpo de Barr
+
 
 ##C  1252  cromatografía      f
 Probas complementarias
@@ -10405,8 +10401,8 @@ Anatomía
 @pt  decúbito lateral
 
 ##R  decúbito prono
-Vid.- decúbito
-ventral
+Vid.- decúbito ventral
+
 
 ##C  1281  decúbito supino      m
 Anatomía
@@ -10440,8 +10436,8 @@ SIN.- anular; dedo do aro [pop.]; dedo mediano [pop.]
 @la  digitus anularis; digitus quartus manus
 
 ##R  dedo auricular 
-Vid.- dedo
-maimiño
+Vid.- dedo maimiño
+
 
 ##R  dedo cordial 
 Vid.- dedo medio
@@ -10510,8 +10506,8 @@ SIN.- medio; pai de todos [pop.]; dedo cordial [cult.]
 @la  digitus medius; tigitus tertius manus
 
 ##R  dedo pequeniño
-Vid.- dedo
-maimiño
+Vid.- dedo maimiño
+
 
 ##C  1292  dedo polgar      m
 Anatomía
@@ -10705,8 +10701,8 @@ SIN.- premolar; dente bicúspide; moa (f) [pop.]
 @la  dens premolaris
 
 ##R  dentes de leite 
-Vid.- dentes
-deciduos
+Vid.- dentes deciduos
+
 
 ##C  1315  dentes deciduos      m pl
 Anatomía
@@ -10725,8 +10721,8 @@ SIN.- dentición permantente (f); dentadura permanente (f)
 @la  dentes permanentes
 
 ##R  dentición decidua 
-Vid.- dentes
-deciduos
+Vid.- dentes deciduos
+
 
 ##R  dentición permantente
 Vid.- dentes permanentes
@@ -11003,10 +10999,10 @@ SIN.- desconxestivo
 @pt  descongestionante
 
 ##R  desconxestivo      
-Vid.- desconxestionante
-1351
+Vid.- desconxestionante 1351
 
-##R  descorticación      f
+
+##C  1351  descorticación      f
 Etiopatoxenia
 @es  decorticación
 @en  decortication
@@ -11228,8 +11224,8 @@ SIN.- diabetes sacarina
 
 
 ##R  diabetes sacarina
-Vid.- diabetes
-mellitus
+Vid.- diabetes mellitus
+
 
 ##C  1382  diáfise      f
 Anatomía
@@ -11355,8 +11351,8 @@ SIN.- descomposición [pop.]
 @pt  diarréia [Br.]; diarreia [Pt.]
 
 ##R  diartrose
-Vid.- articulación
-sinovial
+Vid.- articulación sinovial
+
 
 ##C  1399  diascopia      f
 Probas complementarias
@@ -11423,8 +11419,8 @@ Fisioloxía
 @pt  difusão alvéolo-capilar
 
 ##R  DII
-Vid.- enfermidade inflamatoria
-intestinal
+Vid.- enfermidade inflamatoria intestinal
+
 
 ##C  1409  dilatación de asas intestinais   f
 Semioloxía
@@ -11441,8 +11437,8 @@ SIN.- CO 2 (sb); anhídrico carbónico [arc.]
 @pt  anídrido carbónico [arc.]; dióxido de carbono
 
 ##R  DIP
-Vid.- enfermidade inflamatoria
-pélvica
+Vid.- enfermidade inflamatoria pélvica
+
 
 ##C  1411  diplexía      f
 Semioloxía
@@ -11534,8 +11530,7 @@ Semioloxía        Patoloxías
 Anatomía
 SIN.- disco óptico; papila óptica (f); papila do nervio óptico (f)
 @es  disco óptico; papila óptica
-@en  optic disc;
-optic disk; optic papilla
+@en  optic disc;optic disk; optic papilla
 @pt  disco óptico; papila óptica
 @la  discus nervi optici
 
@@ -11548,8 +11543,8 @@ Anatomía
 
 
 ##R  disco óptico
-Vid.- disco do nervio
-óptico
+Vid.- disco do nervio óptico
+
 
 ##C  1426  discografía      f
 Probas complementarias
@@ -11714,8 +11709,8 @@ SIN.- disociación atrioventricular; disociación AV
 @pt  dissociação atrio-ventricular; dissociação AV
 
 ##R  disociación AV 
-Vid.- disociación
-auriculoventricular
+Vid.- disociación auriculoventricular
+
 
 
 ##R  disomía uniparental  
@@ -11765,8 +11760,8 @@ Anatomía patolóxica
 @pt  disceratose
 
 ##R  disrafismo espiñal
-Vid.- espiña
-bífida
+Vid.- espiña bífida
+
 
 ##C  1456  disreflexia autónoma      f
 Semioloxía
@@ -11912,8 +11907,8 @@ Farmacoloxía
 @pt  digestivo
 
 ##R  DNA
-Vid.- ácido
-desoxirribonucleico
+Vid.- ácido desoxirribonucleico
+
 
 ##C  1475  dó      m
 Termos xerais
@@ -11966,16 +11961,16 @@ Vid.- enfermidade
 Vid.- cardiopatía
 
 ##R  doenza celíaca
-Vid.- enfermidade
-celíaca
+Vid.- enfermidade celíaca
+
 
 ##R  doenza de Hansen
 Vid.- lepra
 
 
 ##R  doenza do refluxo gastroesofáxico      
-Vid.- enfermidade do refluxo
-gastroesofáxico
+Vid.- enfermidade do refluxo gastroesofáxico
+
 
 ##R  doenza do soro 
 Vid.- enfermidade do soro
@@ -11990,12 +11985,12 @@ Vid.- lexionelose
 Vid.- enfermidade exantemática
 
 ##R  doenza granulomatosa crónica      
-Vid.- enfermidade granulomatosa
-crónica
+Vid.- enfermidade granulomatosa crónica
+
 
 ##R  doenza inflamatoria intestinal      
-Vid.- enfermidade inflamatoria
-intestinal
+Vid.- enfermidade inflamatoria intestinal
+
 
 ##R  doenza inflamatoria pélvica      
 Vid.- enfermidade inflamatoria pélvica
@@ -12007,8 +12002,8 @@ Vid.- enfermidade intersticial
 Vid.- enfermidade man-pé-boca
 
 ##R  doenza pulmonar obstrutiva crónica      
-Vid.- enfermidade
-pulmonar obstrutiva crónica
+Vid.- enfermidade pulmonar obstrutiva crónica
+
 
 ##R  doenza pulmonar restritiva      
 Vid.- enfermidade pulmonar restritiva
@@ -12041,8 +12036,8 @@ Farmacoloxía
 @pt  dopaminérgico
 
 ##R  doppler 
-Vid.- ultrasonografía
-Doppler
+Vid.- ultrasonografía Doppler
+
 
 ##C  1484  dor      f
 Semioloxía
@@ -12087,8 +12082,8 @@ Farmacoloxía
 Vid.- médico -ca
 
 ##R  DPOC 
-Vid.- enfermidade
-pulmonar obstrutiva crónica
+Vid.- enfermidade pulmonar obstrutiva crónica
+
 
 ##C  1489  draxea      f
 Farmacoloxía
@@ -12104,12 +12099,12 @@ Terapéutica
 @pt  drenagem
 
 ##R  drepanocitose
-Vid.- anemia
-falciforme
+Vid.- anemia falciforme
+
 
 ##R  DRGE 
-Vid.- enfermidade do
-refluxo gastroesofáxico
+Vid.- enfermidade do refluxo gastroesofáxico
+
 
 ##R  dRib
 Vid.- desoxirribosa
@@ -12196,8 +12191,8 @@ Semioloxía
 @pt  eburnação
 
 ##R  ECA
-Vid.- enzima conversor da
-anxiotensina
+Vid.- enzima conversor da anxiotensina
+
 
 ##C  1502  eccema      m
 Patoloxías
@@ -12207,8 +12202,8 @@ VAR.- eczema
 @pt  eczema
 
 ##R  eccema atópico
-Vid.- dermatite
-atópica
+Vid.- dermatite atópica
+
 
 ##R  eccema de contacto
 Vid.- dermatite de contacto
@@ -12249,8 +12244,8 @@ SIN.- ecodoppler
 Vid.- ecopraxia
 
 ##R  ecodoppler
-Vid.- ecocardiograma
-Doppler
+Vid.- ecocardiograma Doppler
+
 
 ##R  ecofrasia
 Vid.- ecolalia
@@ -12341,8 +12336,8 @@ Semioloxía        Anatomía patolóxica
 @pt  edema
 
 ##R  EDO
-Vid.- enfermidade de
-declaración obrigatoria
+Vid.- enfermidade de declaración obrigatoria
+
 
 ##C  1519  educación para a saúde      f
 Organización sanitaria
@@ -12432,12 +12427,12 @@ Bioquímica
 @pt  eicosanóide
 
 ##R  EII 
-Vid.- enfermidade inflamatoria
-intestinal
+Vid.- enfermidade inflamatoria intestinal
+
 
 ##R  EIP
-Vid.- enfermidade inflamatoria
-pélvica
+Vid.- enfermidade inflamatoria pélvica
+
 
 ##C  1531  eixe anatómico      m
 Anatomía
@@ -12486,15 +12481,15 @@ VAR.- eixo transversal
 @la  axis transversalis
 
 ##R  eixo anatómico
-Vid.- eixe
-anatómico
+Vid.- eixe anatómico
+
 
 ##R  eixo hipotálamo-hipofisario      
 Vid.- eixe hipotálamo-hipofisario
 
 ##R  eixo lonxitudinal 
-Vid.- eixe
-lonxitudinal
+Vid.- eixe lonxitudinal
+
 
 ##R  eixo pélvico
 Vid.- eixe pélvico
@@ -12504,12 +12499,12 @@ Vid.- eixe pélvico
 Vid.- eixe saxital
 
 ##R  eixo transversal 
-Vid.- eixe
-transversal
+Vid.- eixe transversal
+
 
 ##R  ELA 
-Vid.- esclerose lateral
-amiotrófica
+Vid.- esclerose lateral amiotrófica
+
 
 ##C  1537  elastase      f
 Bioquímica
@@ -12825,8 +12820,8 @@ Patoloxías
 @pt  enantema
 
 ##R  enartrose
-Vid.- articulación
-esferoide
+Vid.- articulación esferoide
+
 
 ##C  1584  encefalite      f
 Patoloxías
@@ -13081,8 +13076,8 @@ SIN.- lavativa (f) [pop.]; irrigación (f) [cult.]
 @pt  enema; irrigação
 
 ##R  enema de bario
-Vid.- enema
-opaco
+Vid.- enema opaco
+
 
 ##C  1622  enema opaco      m
 Probas complementarias
@@ -13159,8 +13154,8 @@ Vid.- lepra
 Vid.- xerodermia pigmentosa
 
 ##R  enfermidade de Marchiafava-Micheli      
-Vid.- hemoglobinuria paroxística
-nocturna
+Vid.- hemoglobinuria paroxística nocturna
+
 
 ##R  enfermidade de Miller      
 Vid.- osteomalacía
@@ -13392,8 +13387,8 @@ Epidemioloxía
 @pt  ensaio comunitário de intervenção
 
 ##R  ensaio de campo
-Vid.- estudo de
-campo
+Vid.- estudo de campo
+
 
 ##R  ensaio de inmunoabsorción enzimática      
 Vid.- ELISA
@@ -13742,8 +13737,8 @@ Anatomía
 @la  epiphysis
 
 ##R  epífise cerebral
-Vid.- glándula
-pineal
+Vid.- glándula pineal
+
 
 ##C  1710  epífora      f
 Patoloxías
@@ -13787,12 +13782,12 @@ Vid.- esclerose tuberosa
 Vid.- adrenalina
 
 ##R  epíploon maior
-Vid.- omento
-maior
+Vid.- omento maior
+
 
 ##R  epíploon menor
-Vid.- omento
-menor
+Vid.- omento menor
+
 
 ##R  epiplopexia 
 Vid.- omentopexia
@@ -13842,8 +13837,8 @@ Anatomía patolóxica
 @pt  epitelioma
 
 ##R  epítopo
-Vid.- determinante
-antixénico
+Vid.- determinante antixénico
+
 
 ##C  1721  epitrocleíte      f
 Patoloxías
@@ -13856,8 +13851,8 @@ SIN.- epicondilite medial; cóbado de golfista (m)
 Vid.- eritropoetina
 
 ##R  EPOC
-Vid.- enfermidade pulmonar
-obstrutiva crónica
+Vid.- enfermidade pulmonar obstrutiva crónica
+
 
 
 ##C  1722  epúlide      f
@@ -13906,8 +13901,8 @@ Fisioloxía
 @pt  ereção [Br.]; erecção [Pt.]
 
 ##R  ERGE 
-Vid.- enfermidade do refluxo
-gastroesofáxico
+Vid.- enfermidade do refluxo gastroesofáxico
+
 
 ##C  1727  ergometría      f
 Probas complementarias
@@ -13942,8 +13937,8 @@ SIN.- eritema malar
 
 
 ##R  eritema malar  
-Vid.- eritema en ás
-de bolboreta
+Vid.- eritema en ás de bolboreta
+
 
 ##C  1732  eritema nodoso      m
 Patoloxías
@@ -13973,8 +13968,8 @@ Semioloxía
 @pt  eritroblastose
 
 ##R  eritroblastose fetal      
-Vid.- enfermidade hemolítica do
-neonato
+Vid.- enfermidade hemolítica do neonato
+
 
 ##C  1736  eritrocito      m
 Histoloxía
@@ -14060,10 +14055,10 @@ Farmacoloxía
 Vid.- sarna
 
 ##R  escafoide 
-Vid.- óso escafoide
-1747
+Vid.- óso escafoide 1747
 
-##R  escala timpánica      f
+
+##C  1747  escala timpánica      f
 Anatomía
 SIN.- rampla timpánica
 @es  escala timpánica; rampa timpánica
@@ -14339,8 +14334,8 @@ Vid.- esfínter esofáxico inferior
 Vid.- esfínter esofáxico superior
 
 ##R  esfíncter pilórico
-Vid.- esfínter
-pilórico
+Vid.- esfínter pilórico
+
 
 ##C  1780  esfingolípido      m
 Bioquímica
@@ -14374,8 +14369,8 @@ SIN.- esfínter anorrectal; esfíncter anorrectal VAR.- esfíncter anal
 @la  musculus sphincter ani
 
 ##R  esfínter anorrectal
-Vid.- esfínter
-anal
+Vid.- esfínter anal
+
 
 ##C  1784  esfínter esofáxico inferior      m
 Anatomía
@@ -14528,8 +14523,8 @@ Anatomía
 Vid.- espazo subaracnoide
 
 ##R  espazo peridural
-Vid.- espazo
-epidural
+Vid.- espazo epidural
+
 
 ##C  1802  espazo retroperitoneal      m
 Anatomía
@@ -14602,8 +14597,8 @@ Histoloxía
 @pt  espermátide
 
 ##R  espermatocisto
-Vid.- vesícula
-seminal
+Vid.- vesícula seminal
+
 
 ##C  1812  espermatocito      m
 Histoloxía
@@ -14656,16 +14651,16 @@ SIN.- disrafismo espiñal (m)
 @pt  disrafismo espinhal; espinha bífida
 
 ##R  espiña ciática
-Vid.- espiña
-isquiática
+Vid.- espiña isquiática
+
 
 ##R  espiña da escápula
-Vid.- espiña
-escapular
+Vid.- espiña escapular
+
 
 ##R  espiña dorsal 
-Vid.- columna
-vertebral
+Vid.- columna vertebral
+
 
 
 ##C  1819  espiña escapular      f
@@ -15102,12 +15097,12 @@ Semioloxía
 Vid.- fonendoscopio
 
 ##R  estilofarínxeo
-Vid.- músculo
-estilofarínxeo
+Vid.- músculo estilofarínxeo
+
 
 ##R  estilogloso
-Vid.- músculo
-estilogloso
+Vid.- músculo estilogloso
+
 
 ##C  1876  estimación      f
 Epidemioloxía
@@ -15129,8 +15124,8 @@ Patoloxías
 @pt  estomatite
 
 ##R  estomatite aftosa 
-Vid.- febre
-aftosa
+Vid.- febre aftosa
+
 
 ##C  1879  estomatólogo -ga      s
 Organización sanitaria
@@ -15324,8 +15319,8 @@ Semioloxía
 @pt  estupor
 
 ##R  etapa do sono
-Vid.- estadio do
-sono
+Vid.- estadio do sono
+
 
 ##C  1904  ética médica      f
 Termos xerais
@@ -15343,8 +15338,8 @@ Termos xerais
 Vid.- óso etmoide
 
 ##R  ETS
-Vid.- enfermidade de
-transmisión sexual
+Vid.- enfermidade de transmisión sexual
+
 
 ##C  1906  eucariota      m
 Histoloxía
@@ -15400,12 +15395,12 @@ Fisioloxía
 
 
 ##R  exame de LCR
-Vid.- análise de
-líquido cefalorraquídeo
+Vid.- análise de líquido cefalorraquídeo
+
 
 ##R  exame de líquido cefalorraquídeo      
-Vid.- análise de
-líquido cefalorraquídeo
+Vid.- análise de líquido cefalorraquídeo
+
 
 ##C  1913  exame físico      m
 Termos xerais
@@ -15558,8 +15553,8 @@ Fisioloxía
 @pt  expiração
 
 ##R  exploración física 
-Vid.- exame
-físico
+Vid.- exame físico
+
 
 ##C  1932  exposición      f
 Epidemioloxía
@@ -15673,8 +15668,8 @@ SIN.- cara articular; faceta articular; superficie articular
 @la  facies articularis
 
 ##R  faceta articular
-Vid.- face
-articular
+Vid.- face articular
+
 
 ##R  facies
 Vid.- cara
@@ -15708,8 +15703,8 @@ SIN.- cara de querubín
 @pt  cara de querubim; fácies de querubim
 
 ##R  facies inexpresiva
-Vid.- facies
-de máscara
+Vid.- facies de máscara
+
 
 ##C  1949  facies leonina      f
 Semioloxía
@@ -15719,8 +15714,8 @@ SIN.- cara leonina
 @pt  cara leonina; fácies leonina
 
 ##R  facies lunar
-Vid.- facies de lúa
-chea
+Vid.- facies de lúa chea
+
 
 
 ##C  1950  facies mixedematosa      f
@@ -15783,8 +15778,8 @@ Epidemioloxía
 @pt  factor de risco [Pt.]; fator de risco [Br.]
 
 ##R  factor de seguranza
-Vid.- factor
-protector
+Vid.- factor protector
+
 
 ##R  factor de seguridade
 Vid.- factor protector
@@ -15806,8 +15801,8 @@ Bioquímica        Fisioloxía
 
 
 ##R  factor precipitador  
-Vid.- factor
-precipitante
+Vid.- factor precipitante
+
 
 ##C  1961  factor precipitante      m
 Epidemioloxía
@@ -15877,20 +15872,20 @@ Patoloxías
 @pt  falangite
 
 ##R  fallo cardíaco
-Vid.- insuficiencia
-cardíaca
+Vid.- insuficiencia cardíaca
+
 
 ##R  fallo hepático
-Vid.- insuficiencia
-hepática
+Vid.- insuficiencia hepática
+
 
 ##R  fallo medular  
-Vid.- insuficiencia
-medular
+Vid.- insuficiencia medular
+
 
 ##R  fallo multiorgánico
-Vid.- síndrome de disfunción
-multiorgánica
+Vid.- síndrome de disfunción multiorgánica
+
 
 
 ##R  fallo pancreático
@@ -15930,8 +15925,8 @@ Epidemioloxía
 @pt  falso positivo
 
 ##R  falsos xemelgos 
-Vid.- xemelgos
-dicigóticos
+Vid.- xemelgos dicigóticos
+
 
 ##C  1973  faringoamigdalite      f
 Patoloxías
@@ -16220,8 +16215,8 @@ Patoloxías
 @pt  feocromocitoma
 
 ##R  FER
-Vid.- fracción etiolóxica de
-risco
+Vid.- fracción etiolóxica de risco
+
 
 ##C  2008  fermento      m
 Etiopatoxenia
@@ -16262,8 +16257,8 @@ Nota.- Designa a ‘capacidade fisiolóxica dunha muller, dun home ou dunha pare
 Vid.- fecundación
 
 ##R  fertilizaciónin vitro
-Vid.- fecundación
-in vitro
+Vid.- fecundación in vitro
+
 
 ##C  2013  férula      f
 Terapéutica
@@ -16288,8 +16283,8 @@ SIN.- alento hepático
 Vid.- halitose
 
 ##R  fetor uremicus
-Vid.- alento
-urémico
+Vid.- alento urémico
+
 
 ##C  2016  fiabilidade      f
 Epidemioloxía
@@ -16392,8 +16387,8 @@ Nota.- Evítese “fibrocartílago”.
 Vid.- fibroma
 
 ##R  fibroide uterino
-Vid.- leiomioma
-uterino
+Vid.- leiomioma uterino
+
 
 ##C  2030  fibroma      m
 Anatomía patolóxica
@@ -16415,10 +16410,10 @@ Patoloxías
 @pt  fibromialgia
 
 ##R  fibromioma uterino      
-Vid.- leiomioma uterino
-2033
+Vid.- leiomioma uterino 2033
 
-##R  fibronectina      f
+
+##C  2033  fibronectina      f
 Bioquímica
 @es  fibronectina
 @en  fibronectin
@@ -16495,8 +16490,8 @@ Etiopatoxenia
 @pt  filovírus
 
 ##R  filum terminale
-Vid.- filamento
-terminal
+Vid.- filamento terminal
+
 
 
 ##C  2044  fimbria      f
@@ -16575,8 +16570,8 @@ Patoloxías
 @pt  fissura anal
 
 ##R  fisura calcarina
-Vid.- suco
-calcarino
+Vid.- suco calcarino
+
 
 ##R  fisura calosomarxinal      
 Vid.- xiro cingular
@@ -16594,8 +16589,8 @@ SIN.- fisura interhemisférica; cisura interhemisférica
 @la  fissura longitudinalis cerebri
 
 ##R  fisura palatina  
-Vid.- fenda
-palatina
+Vid.- fenda palatina
+
 
 ##R  fisura uretral superior
 Vid.- epispadia
@@ -16772,8 +16767,8 @@ VAR.- fluxo xenético
 @pt  fluxo gênico
 
 ##R  FMF 
-Vid.- febre mediterránea
-familiar
+Vid.- febre mediterránea familiar
+
 
 ##R  FNT 
 Vid.- factor de necrose tumoral
@@ -16785,8 +16780,8 @@ Patoloxías
 @pt  fobia
 
 ##R  foco de infección
-Vid.- fonte de
-infección
+Vid.- fonte de infección
+
 
 ##C  2082  foliculite      f
 Patoloxías
@@ -17171,8 +17166,8 @@ SIN.- Fru (sb); levulosa
 @pt  frutose; levulose
 
 ##R  FSH
-Vid.- hormona
-folículoestimulante
+Vid.- hormona folículoestimulante
+
 
 ##C  2129  fundoplicatura      f
 Terapéutica
@@ -17248,8 +17243,8 @@ Histoloxía
 Vid.- guanina
 
 ##R  GABA
-Vid.- ácido gamma-
-aminobutírico
+Vid.- ácido gamma- aminobutírico
+
 
 ##R  gabuñón
 Vid.- frieira
@@ -17258,8 +17253,8 @@ Vid.- frieira
 Vid.- galactosa
 
 ##R  galactóforo 
-Vid.- conduto
-galactóforo
+Vid.- conduto galactóforo
+
 
 ##C  2137  galactorrea      f
 Semioloxía
@@ -17503,8 +17498,8 @@ Terapéutica
 @pt  gastrorrafia
 
 ##R  gastrorraxia
-Vid.- hemorraxia
-dixestiva
+Vid.- hemorraxia dixestiva
+
 
 ##C  2172  gastroscopia      f
 Terapéutica        Probas complementarias
@@ -17537,8 +17532,8 @@ Terapéutica
 Vid.- hormona do crecemento
 
 ##R  GHRH 
-Vid.- hormona liberadora
-da hormona do crecemento
+Vid.- hormona liberadora da hormona do crecemento
+
 
 ##C  2176  glabela      f
 Anatomía
@@ -17564,8 +17559,8 @@ Anatomía        Histoloxía
 @la  glandula
 
 ##R  glándula adrenal
-Vid.- glándula
-suprarrenal
+Vid.- glándula suprarrenal
+
 
 ##C  2179  glándula lacrimal      f
 Anatomía
@@ -17618,8 +17613,8 @@ Anatomía
 @la  glandula sebacea
 
 ##R  glándula seminal
-Vid.- vesícula
-seminal
+Vid.- vesícula seminal
+
 
 ##C  2185  glándula sublingual      f
 Anatomía
@@ -17822,8 +17817,8 @@ Anatomía patolóxica
 Vid.- glutamina
 
 ##R  globo histérico
-Vid.- bolo
-histérico
+Vid.- bolo histérico
+
 
 ##C  2214  globo ocular      m
 Anatomía
@@ -17856,8 +17851,8 @@ Vid.- leucocito
 Vid.- eritrocito
 
 ##R  globus hystericus
-Vid.- bolo
-histérico
+Vid.- bolo histérico
+
 
 ##C  2217  glomérulo      m
 Histoloxía
@@ -17954,13 +17949,13 @@ Bioquímica
 Vid.- glicina
 
 ##R  GMPc 
-Vid.- monofosfato cíclico de
-guanosina
+Vid.- monofosfato cíclico de guanosina
+
 
 
 ##R  GnRH  
-Vid.- hormona liberadora
-de gonadotropina
+Vid.- hormona liberadora de gonadotropina
+
 
 ##C  2229  golpe de calor      m
 Patoloxías
@@ -18169,8 +18164,8 @@ Fisioloxía
 Vid.- hidróxeno
 
 ##R  HADO
-Vid.- hospitalización a
-domicilio
+Vid.- hospitalización a domicilio
+
 
 ##C  2255  halitose      f
 Semioloxía
@@ -18220,15 +18215,15 @@ Vid.- corno
 Vid.- hemoglobina
 
 ##R  hCG
-Vid.- gonadotropina coriónica
-humana
+Vid.- gonadotropina coriónica humana
+
 
 ##R  HCl
 Vid.- ácido clorhídrico
 
 ##R  HDL   
-Vid.- lipoproteína de alta
-densidade
+Vid.- lipoproteína de alta densidade
+
 
 ##R  hedra
 Vid.- variz
@@ -18768,8 +18763,8 @@ SIN.- hernia femoral; merocele (m)
 @pt  hérnia crural; hérnia femoral
 
 ##R  hernia de disco
-Vid.- hernia
-discal
+Vid.- hernia discal
+
 
 ##C  2335  hernia de hiato      f
 Patoloxías
@@ -18799,8 +18794,8 @@ Patoloxías
 @pt  hérnia epigástrica
 
 ##R  hernia femoral 
-Vid.- hernia
-crural
+Vid.- hernia crural
+
 
 ##R  hernia hiatal
 Vid.- hernia de hiato
@@ -18855,8 +18850,8 @@ Patoloxías
 @pt  herpes
 
 ##R  herpes gestationis
-Vid.- herpes
-xestacional
+Vid.- herpes xestacional
+
 
 ##C  2347  herpes labial      m
 Patoloxías
@@ -18874,8 +18869,8 @@ Patoloxías
 @pt  herpes simples
 
 ##R  herpes simple oral 
-Vid.- herpes
-labial
+Vid.- herpes labial
+
 
 ##R  herpes simple xenital   
 Vid.- herpes xenital
@@ -18889,8 +18884,7 @@ SIN.- herpes simple xenital
 
 ##C  2350  herpes xestacional      m
 Patoloxías
-VAR.-
-herpes gestationis
+VAR.- herpes gestationis
 @es  herpes gestacional; herpes gestationis
 @en  herpes gestationis
 @pt  herpes gestacional; herpes gestationis
@@ -19079,8 +19073,7 @@ Vid.- anasarca
 
 ##C  2376  hidropisía fetal      f
 Patoloxías
-VAR.-
-hydrops fetalis
+VAR.- hydrops fetalis
 @es  hidropesía fetal; hydrops fetalis
 @en  hydrops fetalis
 @pt  hidropisia fetal; hydrops fetalis
@@ -19386,8 +19379,8 @@ Semioloxía
 Vid.- hipermetropía
 
 ##R  hiperosmia 
-Vid.- hiperestesia
-olfactiva
+Vid.- hiperestesia olfactiva
+
 
 ##C  2418  hiperosmolalidade      f
 Etiopatoxenia
@@ -19502,8 +19495,8 @@ Semioloxía
 @pt  hipersonia
 
 ##R  hipertensión
-Vid.- hipertensión
-arterial
+Vid.- hipertensión arterial
+
 
 ##C  2436  hipertensión arterial      f
 Etiopatoxenia        Patoloxías
@@ -19646,8 +19639,8 @@ Patoloxías
 @pt  hipocondria
 
 ##R  hipocondrio
-Vid.- rexión
-hipocondríaca
+Vid.- rexión hipocondríaca
+
 
 ##R  hipocorticismo
 Vid.- insuficiencia suprarrenal
@@ -20094,8 +20087,8 @@ Termos xerais
 Nota.- Cfr. con “historia médica”.
 
 ##R  historia clínica
-Vid.- historia
-médica
+Vid.- historia médica
+
 
 ##C  2519  historia familiar      f
 Termos xerais
@@ -20203,8 +20196,8 @@ SIN.- hormona estimulante do melanocito; MSH (sg)
 Vid.- hormona luteinizante
 
 ##R  hormona estimulante do melanocito
-Vid.- hormona estimuladora do
-melanocito
+Vid.- hormona estimuladora do melanocito
+
 
 ##C  2532  hormona folículoestimulante     f
 Fisioloxía        Bioquímica
@@ -20318,8 +20311,8 @@ Nota.- Cfr. con “asistencia domiciliaria”.
 Vid.- hospitalización a domicilio
 
 ##R  HRB 
-Vid.- hiperreactividade
-bronquial
+Vid.- hiperreactividade bronquial
+
 
 ##C  2546  humor      m
 Termos xerais
@@ -20351,15 +20344,15 @@ SIN.- corpo vítreo
 @la  humor vitreus
 
 ##R  hydrops fetalis
-Vid.- hidropisía
-fetal
+Vid.- hidropisía fetal
+
 
 ##R  I 
 Vid.- iodo
 
 ##R  I par cranial  
-Vid.- nervio
-olfactorio
+Vid.- nervio olfactorio
+
 
 ##R  iatroxénese 
 Vid.- iatroxenia
@@ -20432,8 +20425,8 @@ Termos xerais
 @pt  idade óssea
 
 ##R  idade xestacional
-Vid.- idade de
-xestación
+Vid.- idade de xestación
+
 
 ##C  2559  identificación      f
 Fisioloxía
@@ -20442,12 +20435,12 @@ Fisioloxía
 @pt  identificação
 
 ##R  IDL
-Vid.- lipoproteína de densidade
-intermedia
+Vid.- lipoproteína de densidade intermedia
+
 
 ##R  IECA
-Vid.- inhibidor do enzima
-conversor da anxiotensina
+Vid.- inhibidor do enzima conversor da anxiotensina
+
 
 ##R  IFN
 Vid.- interferón
@@ -20459,8 +20452,8 @@ Vid.- inmunoglobulina
 Vid.- nervio óptico
 
 ##R  III par cranial 
-Vid.- nervio
-oculomotor
+Vid.- nervio oculomotor
+
 
 ##R  Ile
 Vid.- isoleucina
@@ -20544,8 +20537,8 @@ Vid.- rexión lateral
 Vid.- rexión lateral
 
 ##R  IMAO
-Vid.- inhibidor da
-monoaminooxidase
+Vid.- inhibidor da monoaminooxidase
+
 
 ##C  2570  imaxe de adición      f
 Semioloxía
@@ -20565,8 +20558,8 @@ SIN.- padrón en ás de bolboreta (m)
 Vid.- índice de masa corporal
 
 ##R  imperforación anal 
-Vid.- ano
-imperforado
+Vid.- ano imperforado
+
 
 ##C  2572  impersistencia motora      f
 Semioloxía
@@ -20649,8 +20642,8 @@ Vid.- tumefacción
 Vid.- tumefacción
 
 ##R  incidencia  
-Vid.- incidencia
-acumulada
+Vid.- incidencia acumulada
+
 
 ##C  2582  incidencia acumulada      f
 Epidemioloxía
@@ -20803,8 +20796,8 @@ Anatomía patolóxica
 
 
 ##R  infarto cardíaco 
-Vid.- infarto do
-miocardio
+Vid.- infarto do miocardio
+
 
 ##C  2603  infarto cerebral      m
 Patoloxías
@@ -20845,8 +20838,8 @@ Etiopatoxenia
 @pt  infecção de ferida
 
 ##R  infección de transmisión sexual      
-Vid.- enfermidade de
-transmisión sexual
+Vid.- enfermidade de transmisión sexual
+
 
 ##R  infección extrahospitalaria      
 Vid.- infección comunitaria
@@ -21342,8 +21335,8 @@ SIN.- insuficiencia da válvula mitral; regurxitación mitral
 
 
 ##R  insuficiencia multiorgánica      
-Vid.- síndrome de disfunción
-multiorgánica
+Vid.- síndrome de disfunción multiorgánica
+
 
 ##C  2679  insuficiencia pancreática      f
 Patoloxías
@@ -21498,8 +21491,8 @@ Anatomía
 @la  internus
 
 ##R  intervalo aniónico
-Vid.- hiato
-aniónico
+Vid.- hiato aniónico
+
 
 ##C  2699  intervalo de confianza      m
 Epidemioloxía
@@ -21749,20 +21742,20 @@ Anatomía
 @la  ischium; os ischii
 
 ##R  ISRS
-Vid.- inhibidor selectivo da
-recaptación da serotonina
+Vid.- inhibidor selectivo da recaptación da serotonina
+
 
 ##R  ITS 
-Vid.- enfermidade de
-transmisión sexual
+Vid.- enfermidade de transmisión sexual
+
 
 ##R  IV par cranial
-Vid.- nervio
-troclear
+Vid.- nervio troclear
+
 
 ##R  IX par cranial 
-Vid.- nervio
-glosofarínxeo
+Vid.- nervio glosofarínxeo
+
 
 ##R  K
 Vid.- potasio
@@ -21925,8 +21918,8 @@ Anatomía
 @la  lamina cribrosa
 
 ##R  lámina cuadrilátera
-Vid.- dorso
-da sela
+Vid.- dorso da sela
+
 
 ##C  2757  lámina cuadrixémina      f
 Anatomía
@@ -21956,8 +21949,8 @@ SIN.- lamina propria
 @pt  lâmina própria
 
 ##R  lamina propria
-Vid.- lámina
-propia
+Vid.- lámina propia
+
 
 ##C  2761  lámina vertebral      f
 Anatomía
@@ -22136,8 +22129,8 @@ Farmacoloxía
 Vid.- líquido cefalorraquídeo
 
 ##R  LDL    
-Vid.- lipoproteína de baixa
-densidade
+Vid.- lipoproteína de baixa densidade
+
 
 ##C  2785  lecitina      f
 Bioquímica
@@ -22216,8 +22209,8 @@ VAR.- lemnisco medio
 @la  lemniscus medialis
 
 ##R  lemnisco medio
-Vid.- lemnisco
-medial
+Vid.- lemnisco medial
+
 
 ##C  2795  lentigo      m
 Patoloxías
@@ -22252,8 +22245,8 @@ Patoloxías
 
 
 ##R  LES   
-Vid.- lupus eritematoso
-sistémico
+Vid.- lupus eritematoso sistémico
+
 
 ##C  2800  lesión      f
 Etiopatoxenia
@@ -22262,8 +22255,8 @@ Etiopatoxenia
 @pt  dano; lesão
 
 ##R  lesión en caviar 
-Vid.- lingua en
-caviar
+Vid.- lingua en caviar
+
 
 ##C  2801  lesión en sacabocados      f
 Semioloxía
@@ -22312,8 +22305,7 @@ Vid.- leucemia mieloide
 
 ##C  2806  leucemia linfática      f
 Patoloxías
-VAR.- leucemia linfoide; leucemia
-linfocítica
+VAR.- leucemia linfoide; leucemia linfocítica
 @es  leucemia linfática; leucemia linfocítica; leucemia linfoide
 @en  lymphatic leukemia; lymphocytic leukemia; lymphoid leukemia
 @pt  leucemia linfática; leucemia linfocítica;; leucemia linfóide
@@ -22826,8 +22818,8 @@ SIN.- lesión en caviar
 @pt  lesão em caviar; língua em caviar
 
 ##R  lingua escrotal  
-Vid.- lingua
-fisurada
+Vid.- lingua fisurada
+
 
 ##C  2869  lingua fisurada      f
 Semioloxía
@@ -22845,12 +22837,12 @@ SIN.- lingua vilosa; lingua pilosa
 @pt  língua negra pilosa; língua pilosa
 
 ##R  lingua pilosa
-Vid.- lingua negra
-vilosa
+Vid.- lingua negra vilosa
+
 
 ##R  lingua plicata  
-Vid.- lingua
-fisurada
+Vid.- lingua fisurada
+
 
 ##C  2871  lingua saburral      f
 Semioloxía
@@ -22860,12 +22852,12 @@ VAR.- lingua saburrosa
 @pt  língua saburrosa
 
 ##R  lingua saburrosa
-Vid.- lingua
-saburral
+Vid.- lingua saburral
+
 
 ##R  lingua vilosa
-Vid.- lingua negra
-vilosa
+Vid.- lingua negra vilosa
+
 
 ##C  2872  lingua xeográfica      f
 Semioloxía
@@ -23049,8 +23041,8 @@ Anatomía patolóxica
 @pt  líquen
 
 ##R  lique atrófico 
-Vid.- lique
-escleroso atrófico
+Vid.- lique escleroso atrófico
+
 
 ##C  2899  lique escleroso atrófico      m
 Patoloxías
@@ -23268,12 +23260,12 @@ SIN.- ínsula (f)          VAR.- lobo insular
 @la  insula; lobus insularis
 
 ##R  lobo do cerebelo
-Vid.- lobo
-cerebeloso
+Vid.- lobo cerebeloso
+
 
 ##R  lobo do fígado
-Vid.- lobo
-hepático
+Vid.- lobo hepático
+
 
 ##C  2931  lobo frontal      m
 Anatomía
@@ -23362,8 +23354,8 @@ Xenética
 @pt  locus
 
 ##R  locus niger
-Vid.- substancia
-negra
+Vid.- substancia negra
+
 
 ##C  2942  logopeda      s
 Organización sanitaria
@@ -23378,8 +23370,8 @@ Organización sanitaria
 @pt  logopedia; terapia da fala
 
 ##R  logorrea
-Vid.- incontinencia
-verbal
+Vid.- incontinencia verbal
+
 
 ##R  lombo
 Vid.- costas
@@ -23403,8 +23395,8 @@ Fisioloxía        Anatomía
 Vid.- leucoplasia pilosa oral
 
 ##R  LSD
-Vid.- dietilamida do ácido
-lisérxico
+Vid.- dietilamida do ácido lisérxico
+
 
 ##R  LTC 
 Vid.- linfocito T citotóxico
@@ -23539,8 +23531,8 @@ VAR.- terapia magnética
 Vid.- dedo maimiño
 
 ##R  mal africano 
-Vid.- enfermidade
-do sono
+Vid.- enfermidade do sono
+
 
 ##R  mal da rosa
 Vid.- pelagra
@@ -23553,8 +23545,8 @@ SIN.- mal de altura
 @pt  mal das montanhas; mal de altitude; soroche
 
 ##R  mal de altura
-Vid.- mal das
-montañas
+Vid.- mal das montañas
+
 
 ##C  2963  malabsorción      f
 Etiopatoxenia
@@ -23710,8 +23702,8 @@ Probas complementarias
 @pt  manometria
 
 ##R  manto cerebral 
-Vid.- córtex
-cerebral
+Vid.- córtex cerebral
+
 
 ##C  2983  mapa xenético      m
 Xenética
@@ -23736,8 +23728,8 @@ SIN.- marcapasos cardíaco
 Vid.- marcapasos
 
 ##R  marcha anserina
-Vid.- marcha
-de pato
+Vid.- marcha de pato
+
 
 ##C  2986  marcha atáxica      f
 Semioloxía
@@ -23824,8 +23816,8 @@ Semioloxía
 @pt  marcha instável
 
 ##R  marcha miopática   
-Vid.- marcha
-de pato
+Vid.- marcha de pato
+
 
 ##C  2998  marcha parética      f
 Semioloxía
@@ -23854,10 +23846,9 @@ Xenética
 SIN.- cadro de lectura
 @es  cuadro de lectura; pauta de lectura
 @en  reading frame
-@pt  quadro de leitura
-3002
+@pt  quadro de leitura3002
 
-##R  mareo      m
+##C  3002  mareo      m
 Semioloxía
 @es  mareo
 @en  dizziness
@@ -24020,8 +24011,8 @@ Terapéutica
 @pt  maxilectomia
 
 ##R  mazá da perna
-Vid.- barriga da
-perna
+Vid.- barriga da perna
+
 
 ##R  mazadura
 Vid.- equimose
@@ -24156,8 +24147,8 @@ Organización sanitaria
 @pt  medicina interna
 
 ##R  medicina legal 
-Vid.- medicina
-forense
+Vid.- medicina forense
+
 
 ##C  3040  medicina nuclear      f
 Organización sanitaria
@@ -24230,8 +24221,8 @@ SIN.- crecemento (m)
 @pt  crescimento; medrança
 
 ##R  medula amarela 
-Vid.- medula
-ósea amarela
+Vid.- medula ósea amarela
+
 
 ##C  3048  medula espiñal      f
 Anatomía
@@ -24243,8 +24234,8 @@ SIN.- medula raquídea; medula vertebral
 Nota.- Evítese “médula”.
 
 ##R  medula oblonga
-Vid.- bulbo
-raquídeo
+Vid.- bulbo raquídeo
+
 
 ##C  3049  medula ósea      f
 Anatomía
@@ -24271,16 +24262,16 @@ SIN.- medula vermella
 @la  medulla ossium rubra
 
 ##R  medula raquídea
-Vid.- medula
-espiñal
+Vid.- medula espiñal
+
 
 ##R  medula vermella 
-Vid.- medula
-ósea vermella
+Vid.- medula ósea vermella
+
 
 ##R  medula vertebral    
-Vid.- medula
-espiñal
+Vid.- medula espiñal
+
 
 ##C  3052  meduloblastoma      m
 Patoloxías
@@ -24403,12 +24394,12 @@ SIN.- membrana hemato-fetal; membrana materno-fetal
 @pt  membrana de permuta placentária
 
 ##R  membrana hemato-fetal      
-Vid.- membrana de intercambio
-placentario
+Vid.- membrana de intercambio placentario
+
 
 ##R  membrana materno-fetal      
-Vid.- membrana de intercambio
-placentario
+Vid.- membrana de intercambio placentario
+
 
 ##R  membrana media
 Vid.- aracnoide
@@ -24471,8 +24462,8 @@ SIN.- membro pélvico; extremidade inferior (f)
 @la  membrum inferius
 
 ##R  membro pélvico
-Vid.- membro
-inferior
+Vid.- membro inferior
+
 
 ##C  3078  membro superior      m
 Anatomía
@@ -24483,8 +24474,8 @@ SIN.- membro torácico; extremidade superior (f)
 @la  membrum superius
 
 ##R  membro torácico 
-Vid.- membro
-superior
+Vid.- membro superior
+
 
 ##C  3079  memoria inmunolóxica      f
 Fisioloxía
@@ -24712,10 +24703,9 @@ Anatomía
 @es  metatarso
 @en  metatarsus
 @pt  metatarso
-@la  metatarsus
-3110
+@la  metatarsus3110
 
-##R  meteorismo      m
+##C  3110  meteorismo      m
 Semioloxía
 @es  meteorismo
 @en  meteorism
@@ -24748,8 +24738,8 @@ SIN.- miodinia
 @pt  mialgia; miodinia
 
 ##R  miastenia grave
-Vid.-
-miastenia 
+Vid.- miastenia 
+
 gravis
 
 ##C  3115 miastenia gravisf
@@ -25025,8 +25015,8 @@ SIN.- mielopatía cervical VAR.- mielopatía espondilótica cervical; mielopatí
 Vid.- mielopatía espondilótica
 
 ##R  mielopatía sifilítica
-Vid.- tabe
-dorsal
+Vid.- tabe dorsal
+
 
 ##C  3156  mieloperoxidase      f
 Bioquímica
@@ -25122,10 +25112,10 @@ VAR.- mioclono (m)
 Vid.- mioclonía
 
 ##R  miodinia
-Vid.- mialxia
-3169
+Vid.- mialxia 3169
 
-##R  miofascite      f
+
+##C  3169  miofascite      f
 Patoloxías
 @es  miofascitis
 @en  myofascitis
@@ -25177,8 +25167,8 @@ SIN.- tumor muscular
 @pt  mioma; tumor muscular
 
 ##R  mioma uterino
-Vid.- leiomioma
-uterino
+Vid.- leiomioma uterino
+
 
 
 ##C  3176  miomectomía      f
@@ -25337,16 +25327,16 @@ Vid.- dente premolar
 Vid.- dente molar
 
 ##R  moa cordal
-Vid.- dente molar
-terceiro
+Vid.- dente molar terceiro
+
 
 ##R  moa do siso
-Vid.- dente molar
-terceiro
+Vid.- dente molar terceiro
+
 
 ##R  moa do xuízo
-Vid.- dente molar
-terceiro
+Vid.- dente molar terceiro
+
 
 ##C  3198  mobilización      f
 Terapéutica
@@ -25368,8 +25358,8 @@ Fisioloxía
 @pt  muco cervical
 
 ##R  modelación ósea
-Vid.- modelaxe
-ósea
+Vid.- modelaxe ósea
+
 
 ##C  3201  modelaxe ósea      f
 Fisioloxía
@@ -25400,8 +25390,8 @@ SIN.- mola hidatidiforme
 @pt  mola hidatiforme
 
 ##R  mola hidatidiforme
-Vid.- mola
-hidatídica
+Vid.- mola hidatídica
+
 
 ##R  molar
 Vid.- dente molar
@@ -25521,8 +25511,8 @@ Farmacoloxía
 @pt  morfina
 
 ##R  mortalidade
-Vid.- taxa de
-mortalidade
+Vid.- taxa de mortalidade
+
 
 ##C  3221  mortalidade fetal      f
 Epidemioloxía
@@ -25581,8 +25571,8 @@ Termos xerais
 @pt  morte súbita
 
 ##R  morte súbita infantil      
-Vid.- síndrome de morte súbita do
-lactante
+Vid.- síndrome de morte súbita do lactante
+
 
 ##R  mortinato -ta
 Vid.- natimorto -ta
@@ -25639,8 +25629,8 @@ Histoloxía
 Vid.- mieloperoxidase
 
 ##R  MSH
-Vid.- hormona estimuladora
-do melanocito
+Vid.- hormona estimuladora do melanocito
+
 
 ##C  3236  mucina      f
 Bioquímica
@@ -25681,8 +25671,8 @@ SIN.- mucosa en lastros
 @pt  mucosa em pedra de calçamento
 
 ##R  mucosa en lastros
-Vid.- mucosa
-en empedrado
+Vid.- mucosa en empedrado
+
 
 ##C  3242  mucosa olfactoria      f
 Anatomía
@@ -25707,8 +25697,8 @@ Patoloxías
 @pt  mucosite
 
 ##R  mucoviscidose
-Vid.- fibrose
-quística
+Vid.- fibrose quística
+
 
 ##C  3245  muguet      m
 Patoloxías
@@ -25920,8 +25910,8 @@ Anatomía
 @la  musculus ciliaris
 
 ##R  músculo coccíxeo
-Vid.- músculo
-isquiococcíxeo
+Vid.- músculo isquiococcíxeo
+
 
 ##C  3271  músculo constritor da farinxe   m
 Anatomía
@@ -25945,8 +25935,8 @@ Anatomía
 @la  musculus cremaster
 
 ##R  músculo crural  
-Vid.- músculo
-vasto intermedio
+Vid.- músculo vasto intermedio
+
 
 ##C  3274  músculo cuadríceps femoral     m
 Anatomía
@@ -25966,9 +25956,8 @@ SIN.- músculo dérmico
 @pt  músculo cutâneo
 @la  musculus cutaneus
 
-3276
 
-##R  músculo da barbela      m
+##C  3276  músculo da barbela      m
 Anatomía
 SIN.- músculo elevador do labio inferior; músculo mentoniano
 @es  borla de la barba (f); músculo mental; músculo mentoniano
@@ -26003,8 +25992,8 @@ Anatomía
 @la  musculus depressor labii inferioris
 
 ##R  músculo depresor do septo nasal     
-Vid.- músculo depresor
-do tabique nasal
+Vid.- músculo depresor do tabique nasal
+
 
 ##C  3280  músculo depresor do tabique nasal      m
 Anatomía
@@ -26015,8 +26004,8 @@ SIN.- músculo depresor do septo nasal
 @la  musculus depressor septi nasi
 
 ##R  músculo dérmico  
-Vid.- músculo
-cutáneo
+Vid.- músculo cutáneo
+
 
 ##C  3281  músculo detrusor da vexiga   m
 Anatomía
@@ -26050,8 +26039,8 @@ SIN.- músculo angular da omoplata
 @la  musculus levator scapulae
 
 ##R  músculo elevador da pálpebra      
-Vid.- músculo elevador da pálpebra
-superior
+Vid.- músculo elevador da pálpebra superior
+
 
 ##C  3285  músculo elevador da pálpebra superior      
 Anatomía
@@ -26204,8 +26193,8 @@ Histoloxía
 @pt  músculo estriado
 
 ##R  músculo extensor cubital do carpo     
-Vid.- músculo extensor
-ulnar do carpo
+Vid.- músculo extensor ulnar do carpo
+
 
 ##C  3304  músculo extensor curto da primeira deda     
 Anatomía
@@ -26616,20 +26605,20 @@ SIN.- músculo oblicuo menor do abdome
 @la  musculus obliquus internus abdominis
 
 ##R  músculo oblicuo maior da cabeza     
-Vid.- músculo oblicuo
-inferior da cabeza
+Vid.- músculo oblicuo inferior da cabeza
+
 
 ##R  músculo oblicuo maior do abdome      
-Vid.- músculo oblicuo
-externo do abdome
+Vid.- músculo oblicuo externo do abdome
+
 
 ##R  músculo oblicuo menor da cabeza      
-Vid.- músculo oblicuo
-superior da cabeza
+Vid.- músculo oblicuo superior da cabeza
+
 
 ##R  músculo oblicuo menor do abdome     
-Vid.- músculo oblicuo
-interno do abdome
+Vid.- músculo oblicuo interno do abdome
+
 
 ##C  3354  músculo oblicuo superior      m
 Anatomía
@@ -26925,8 +26914,8 @@ Anatomía
 @la  musculus rectus capitis lateralis
 
 ##R  músculo recto maior do abdome     
-Vid.- músculo recto do
-abdome
+Vid.- músculo recto do abdome
+
 
 ##C  3388  músculo recto medial      m
 Anatomía
@@ -27041,12 +27030,12 @@ VAR.- músculo serrato posterosuperior
 @la  musculus serratus posterior superior
 
 ##R  músculo serrato posteroinferior      
-Vid.- músculo
-serrato posterior inferior
+Vid.- músculo serrato posterior inferior
+
 
 ##R  músculo serrato posterosuperior      
-Vid.- músculo
-serrato posterior superior
+Vid.- músculo serrato posterior superior
+
 
 ##C  3403  músculo sóleo      m
 Anatomía
@@ -27209,8 +27198,8 @@ Anatomía
 @la  musculus vocalis
 
 ##R  músculo xemelgo  
-Vid.- músculo
-gastrocnemio
+Vid.- músculo gastrocnemio
+
 
 ##C  3422  músculo xemelgo inferior      m
 Anatomía
@@ -27616,8 +27605,8 @@ SIN.- nervio dentario inferior
 @la  nervus alveolaris inferior
 
 ##R  nervio auditivo
-Vid.- nervio
-vestibulococlear
+Vid.- nervio vestibulococlear
+
 
 ##C  3475  nervio axilar      m
 Anatomía
@@ -27639,8 +27628,8 @@ SIN.- nervio ciático maior; nervio isquiático
 Vid.- nervio ciático
 
 ##R  nervio circunflexo 
-Vid.- nervio
-axilar
+Vid.- nervio axilar
+
 
 ##C  3477  nervio cranial      m
 Anatomía
@@ -27690,8 +27679,8 @@ Anatomía
 @la  nervus cutaneus antebrachii medialis
 
 ##R  nervio cutáneo posterior da coxa      
-Vid.- nervio cutáneo
-femoral posterior
+Vid.- nervio cutáneo femoral posterior
+
 
 ##C  3482  nervio da corda do tímpano   m
 Anatomía
@@ -27713,8 +27702,8 @@ SIN.- nervio raquídeo
 @la  nervus spinalis
 
 ##R  nervio espiñal 
-Vid.- nervio
-accesorio
+Vid.- nervio accesorio
+
 
 
 ##C  3484  nervio facial      m
@@ -27798,8 +27787,8 @@ SIN.- XII par cranial
 
 
 ##R  nervio infraorbital
-Vid.- nervio
-infraorbitario
+Vid.- nervio infraorbitario
+
 
 ##C  3494  nervio infraorbitario      m
 Anatomía
@@ -27821,8 +27810,7 @@ Vid.- nervio intermedio
 
 ##C  3496  nervio intermedio      m
 Anatomía
-VAR.- nervio intermedio de Wrisberg;
-nervio intermediario
+VAR.- nervio intermedio de Wrisberg; nervio intermediario
 @es  nervio intermediario; nervio intermediario de Wrisberg; nervio intermedio
 @en  intermediate nerve; intermediate nerve of Wrisberg
 @pt  nervo intermediário; nervo intermediário de Wrisberg; nervo intermédio
@@ -27832,8 +27820,8 @@ nervio intermediario
 Vid.- nervio intermedio
 
 ##R  nervio isquiático
-Vid.- nervio
-ciático
+Vid.- nervio ciático
+
 
 ##C  3497  nervio larínxeo      m
 Anatomía
@@ -27937,8 +27925,8 @@ SIN.- II par cranial
 @la  nervus opticus
 
 ##R  nervio patético
-Vid.- nervio
-troclear
+Vid.- nervio troclear
+
 
 ##R  nervio peroneal común      
 Vid.- nervio fibular común
@@ -27964,8 +27952,8 @@ Anatomía
 @la  nervus radialis
 
 ##R  nervio raquídeo  
-Vid.- nervio
-espiñal
+Vid.- nervio espiñal
+
 
 
 ##C  3512  nervio safeno      m
@@ -28037,8 +28025,8 @@ SIN.- nervio auditivo; VIII par cranial
 @la  nervus vestibulocochlearis
 
 ##R  nervio xenitocrural  
-Vid.- nervio
-xenitofemoral
+Vid.- nervio xenitofemoral
+
 
 ##C  3521  nervio xenitofemoral      m
 Anatomía
@@ -28084,8 +28072,8 @@ Epidemioloxía
 Vid.- erro sistemático de información
 
 ##R  nesgo de recordo
-Vid.- nesgo de
-memoria
+Vid.- nesgo de memoria
+
 
 ##C  3526  nesgo de selección      m
 Epidemioloxía
@@ -28367,8 +28355,8 @@ SIN.- nevo displásico
 @pt  nevo atípico; nevo displásico;
 
 ##R  nevo displásico
-Vid.- nevo
-atípico
+Vid.- nevo atípico
+
 
 ##R  niacina
 Vid.- vitamina B3
@@ -28448,12 +28436,12 @@ SIN.- nivel de atención; nivel de coidado
 @pt  nivel de assistência; nivel de atenção; nivel de cuidados
 
 ##R  nivel de atención
-Vid.- nivel de
-asistencia
+Vid.- nivel de asistencia
+
 
 ##R  nivel de coidado
-Vid.- nivel de
-asistencia
+Vid.- nivel de asistencia
+
 
 ##C  3574  nivel de consciencia      m
 Termos xerais
@@ -28478,8 +28466,8 @@ Histoloxía
 @pt  nó
 
 ##R  nó 
-Vid.- nódulo (Anatomía
-patolóxica)
+Vid.- nódulo (Anatomía patolóxica)
+
 
 ##R  nó  
 Vid.- nódulo (Semioloxía)
@@ -28542,8 +28530,8 @@ SIN.- nome xenérico
 @pt  nome farmacológico; nome genérico
 
 ##R  nome xenérico
-Vid.- nome
-farmacolóxico
+Vid.- nome farmacolóxico
+
 
 ##C  3585  nootrópico      m
 Farmacoloxía
@@ -28592,8 +28580,8 @@ Anatomía
 @la  nucleus caudatus
 
 ##R  núcleo lenticular 
-Vid.- núcleo
-lentiforme
+Vid.- núcleo lentiforme
+
 
 ##C  3591  núcleo lentiforme      m
 Anatomía
@@ -28739,8 +28727,8 @@ Semioloxía
 Vid.- oftalmólogo -ga
 
 ##R  odds ratio
-Vid.- razón de
-probabilidade
+Vid.- razón de probabilidade
+
 
 ##C  3610  odinofaxia      f
 Semioloxía
@@ -29049,8 +29037,8 @@ SIN.- adenoma oxifílico
 @pt  adenoma oxifílico; oncocitoma
 
 ##R  oncólogo -ga
-Vid.- oncólogo -ga
-médico
+Vid.- oncólogo -ga médico
+
 
 ##C  3650  oncólogo -ga médico      s
 Organización sanitaria
@@ -29110,8 +29098,8 @@ Terapéutica
 @pt  onfalotomia
 
 ##R  onicocriptose
-Vid.- uña
-encarnada
+Vid.- uña encarnada
+
 
 ##C  3659  onicólise      f
 Semioloxía
@@ -29280,8 +29268,8 @@ SIN.- forame
 Vid.- meato urinario
 
 ##R  orificio nutricio 
-Vid.- forame
-nutricio
+Vid.- forame nutricio
+
 
 ##R  orizó 
 Vid.- tirizó
@@ -29489,8 +29477,8 @@ SIN.- esfenoide
 @la  os sphenoidale
 
 ##R  óso esponxoso 
-Vid.- óso
-trabecular
+Vid.- óso trabecular
+
 
 ##C  3704  óso etmoide      m
 Anatomía
@@ -29517,8 +29505,8 @@ SIN.- óso coronal
 @la  os frontale
 
 ##R  óso ganchudo
-Vid.- óso
-unciforme
+Vid.- óso unciforme
+
 
 ##C  3707  óso grande      m
 Anatomía
@@ -29630,12 +29618,12 @@ VAR.- óso pneumatizado
 @la  os pneumaticum
 
 ##R  óso pneumatizado 
-Vid.- óso
-pneumático
+Vid.- óso pneumático
+
 
 ##R  óso propio do nariz 
-Vid.- óso
-nasal
+Vid.- óso nasal
+
 
 ##R  óso pube
 Vid.- pube
@@ -29753,8 +29741,8 @@ Histoloxía
 @pt  osteoclasto
 
 ##R  osteoclastoma
-Vid.- tumor de
-células xigantes
+Vid.- tumor de células xigantes
+
 
 ##C  3736  osteocondrite      f
 Patoloxías
@@ -30174,8 +30162,8 @@ Vid.- fósforo
 Vid.- escápula
 
 ##R  PAAF  
-Vid.- punción aspirativa con
-agulla fina
+Vid.- punción aspirativa con agulla fina
+
 
 ##C  3790  paciente      s
 Termos xerais
@@ -30319,10 +30307,10 @@ Terapéutica
 @pt  pancreatostomia
 
 ##R  pancrectomía
-Vid.- pancreatectomía
-3806
+Vid.- pancreatectomía 3806
 
-##R  pandemia      f
+
+##C  3808  pandemia      f
 Epidemioloxía
 @es  pandemia
 @en  pandemy
@@ -30358,8 +30346,8 @@ VAR.- pano
 Vid.- cloasma
 
 ##R  pano
-Vid.-
-pannus
+Vid.- pannus
+
 
 ##R  panza
 Vid.- abdome
@@ -30391,8 +30379,8 @@ SIN.- corpúsculo gustativo (m)
 @la  caliculus gustatorius
 
 ##R  papila óptica 
-Vid.- disco do
-nervio óptico
+Vid.- disco do nervio óptico
+
 
 
 ##C  3813  papila renal      f
@@ -30434,8 +30422,8 @@ Patoloxías
 Vid.- bocio
 
 ##R  papo da perna
-Vid.- barriga da
-perna
+Vid.- barriga da perna
+
 
 ##C  3818  papovavirus      m
 Etiopatoxenia
@@ -30621,8 +30609,8 @@ Semioloxía        Patoloxías
 @pt  parasómnia
 
 ##R  parathormona
-Vid.- hormona
-paratiroide
+Vid.- hormona paratiroide
+
 
 ##C  3842  paratiroidectomía      f
 Terapéutica
@@ -30725,8 +30713,8 @@ Anatomía
 @la  pars petrosa ossis temporalis
 
 ##R  parte simpática
-Vid.- sistema
-nervioso simpático
+Vid.- sistema nervioso simpático
+
 
 ##R  parteiro -ra 
 Vid.- matrón -na
@@ -30766,8 +30754,8 @@ Farmacoloxía
 Vid.- rótula
 
 ##R  patoanatomía
-Vid.- anatomía
-patolóxica
+Vid.- anatomía patolóxica
+
 
 ##C  3859  patognomónico -ca      a
 Termos xerais
@@ -30821,12 +30809,12 @@ Vid.- orella
 Vid.- orella
 
 ##R  pavor nocturno
-Vid.- terror
-nocturno
+Vid.- terror nocturno
+
 
 ##R  PCR
-Vid.- reacción en cadea da
-polimerase
+Vid.- reacción en cadea da polimerase
+
 
 ##R  PCR
 Vid.- proteína C reactiva
@@ -30854,16 +30842,16 @@ SIN.- pé de trincheira
 @pt  pé-de-imersão; pé-de-trincheira
 
 ##R  pé de trincheira
-Vid.- pé de
-inmersión
+Vid.- pé de inmersión
+
 
 ##R  pectus carinatum
-Vid.- tórax en
-quilla
+Vid.- tórax en quilla
+
 
 ##R  pectus excavatum
-Vid.- tórax
-escavado
+Vid.- tórax escavado
+
 
 ##C  3868  pediatra      s
 Organización sanitaria
@@ -30881,8 +30869,8 @@ Organización sanitaria
 Vid.- pedículo vertebral
 
 ##R  pedículo pulmonar 
-Vid.- raíz
-pulmonar
+Vid.- raíz pulmonar
+
 
 ##C  3870  pedículo vertebral      m
 Anatomía
@@ -30975,8 +30963,8 @@ SIN.- pelve verdadeira
 @la  pelvis menor
 
 ##R  pelve verdadeira
-Vid.- pelve
-menor
+Vid.- pelve menor
+
 
 ##C  3881  pelvitomía      f
 Terapéutica
@@ -31245,8 +31233,8 @@ VAR.- período latente
 @pt  período de latência; período latente
 
 ##R  período latente
-Vid.- período de
-latencia
+Vid.- período de latencia
+
 
 
 ##C  3919  período refractario      m
@@ -31441,8 +31429,8 @@ Vid.- peste
 Vid.- peste
 
 ##R  PET 
-Vid.- tomografía por emisión
-de positróns
+Vid.- tomografía por emisión de positróns
+
 
 ##C  3941  petequia      f
 Semioloxía
@@ -31738,8 +31726,8 @@ Vid.- pirámide progresiva
 Vid.- pirámide estacionaria
 
 ##R  pirámide nova 
-Vid.- pirámide
-progresiva
+Vid.- pirámide progresiva
+
 
 ##C  3975  pirámide poboacional      f
 Epidemioloxía
@@ -31749,12 +31737,12 @@ SIN.- pirámide de idades VAR.- pirámide de poboación
 @pt  pirâmide etária; pirâmide populacional
 
 ##R  pirámide poboacional estacionaria      
-Vid.- pirámide
-estacionaria
+Vid.- pirámide estacionaria
+
 
 ##R  pirámide poboacional progresiva  
-Vid.- pirámide
-progresiva
+Vid.- pirámide progresiva
+
 
 ##R  pirámide poboacional regresiva      
 Vid.- pirámide regresiva
@@ -31903,8 +31891,8 @@ Anatomía
 @la  planum sagittale
 
 ##R  plano transversal 
-Vid.- plano
-horizontal
+Vid.- plano horizontal
+
 
 ##R  planta
 Vid.- planta do pé
@@ -32060,8 +32048,8 @@ Anatomía
 @la  plexus cervicalis
 
 ##R  plexo coroidal
-Vid.- plexo
-coroide
+Vid.- plexo coroide
+
 
 ##C  4014  plexo coroide      m
 Anatomía
@@ -32072,8 +32060,8 @@ VAR.- plexo coroidal; plexo coroideo
 @la  plexus choroideus
 
 ##R  plexo coroideo
-Vid.- plexo
-coroide
+Vid.- plexo coroide
+
 
 ##C  4015  plexo entérico      m
 Anatomía
@@ -32107,10 +32095,10 @@ Patoloxías
 @pt  plexopatia
 
 ##R  plicación
-Vid.- plicatura
-4019
+Vid.- plicatura 4019
 
-##R  plicatura      f
+
+##C  4021  plicatura      f
 Terapéutica
 VAR.- plicación
 @es  plicación; plicatura
@@ -32134,8 +32122,8 @@ Vid.- multigrávida
 Vid.- multípara
 
 ##R  PNA
-Vid.- péptido natriurético
-atrial
+Vid.- péptido natriurético atrial
+
 
 ##C  4021  pneumectomía      f
 Terapéutica
@@ -32227,8 +32215,8 @@ Terapéutica
 @pt  pneumopexia
 
 ##R  pneumorraxia  
-Vid.- hemorraxia
-pulmonar
+Vid.- hemorraxia pulmonar
+
 
 ##C  4033  pneumotomía      f
 Terapéutica
@@ -32273,8 +32261,8 @@ Epidemioloxía
 Vid.- poboación albo
 
 ##R  podálica 
-Vid.- presentación
-podálica
+Vid.- presentación podálica
+
 
 ##C  4039  podocito      m
 Histoloxía
@@ -32362,8 +32350,8 @@ Semioloxía
 Vid.- eritrocitose
 
 ##R  polígono de Willis
-Vid.- círculo
-arterial do cerebro
+Vid.- círculo arterial do cerebro
+
 
 ##R  polihidramnio 
 Vid.- hidramnio
@@ -32450,8 +32438,8 @@ Semioloxía        Anatomía patolóxica
 @pt  pólipo
 
 ##R  polipose adenomatosa do colon      
-Vid.- polipose colónica
-familiar
+Vid.- polipose colónica familiar
+
 
 
 ##C  4062  polipose colónica familiar      f
@@ -32475,8 +32463,8 @@ SIN.- somnografía
 @pt  polisonografia; sonografia
 
 ##R  política de saúde
-Vid.- política
-sanitaria
+Vid.- política sanitaria
+
 
 ##C  4065  política sanitaria      f
 Organización sanitaria
@@ -32524,8 +32512,8 @@ Farmacoloxía
 Vid.- proopiomelanocortina
 
 ##R  porción distal 
-Vid.- extremidade
-distal
+Vid.- extremidade distal
+
 
 ##R  porción proximal      
 Vid.- extremidade proximal
@@ -32712,8 +32700,8 @@ Vid.- pregadura
 
 
 ##R  prega vestibular 
-Vid.- pregadura
-vestibular
+Vid.- pregadura vestibular
+
 
 ##R  prega vocal 
 Vid.- pregadura vocal
@@ -32882,8 +32870,8 @@ SIN.- presión arterial pulmonar
 @pt  pressão arterial pulmonar; pressão pulmonar
 
 ##R  presión sanguínea
-Vid.- presión
-arterial
+Vid.- presión arterial
+
 
 ##R  presión sanguínea alta      
 Vid.- hipertensión arterial
@@ -32986,20 +32974,20 @@ Vid.- test calórico
 Vid.- test cutáneo de alerxia
 
 ##R  proba da elevación da perna en extensión
-Vid.- test da
-elevación da perna en extensión
+Vid.- test da elevación da perna en extensión
+
 
 ##R  proba da lepromina
-Vid.- test
-da lepromina
+Vid.- test da lepromina
+
 
 ##R  proba da metirapona
-Vid.- test
-da metirapona
+Vid.- test da metirapona
+
 
 ##R  proba da sacarosa
-Vid.- test da
-sacarosa
+Vid.- test da sacarosa
+
 
 ##R  proba da sobrecarga acuosa      
 Vid.- test da sobrecarga acuosa
@@ -33008,28 +32996,28 @@ Vid.- test da sobrecarga acuosa
 Vid.- test da suor
 
 ##R  proba da tuberculina
-Vid.- test
-da tuberculina
+Vid.- test da tuberculina
+
 
 ##R  proba da ureasa
-Vid.- test da
-ureasa
+Vid.- test da ureasa
+
 
 ##R  proba de absorción de anticorpostreponémicos fluorescentes
-Vid.- test de
-absorción de anticorpos treponémicos
+Vid.- test de absorción de anticorpos treponémicos
+
 fluorescentes
 
 ##R  proba de aglutinación en látex 
 Vid.- test de aglutinación en látex
 
 ##R  proba de alento
-Vid.- test de
-alento
+Vid.- test de alento
+
 
 ##R  proba de anticorpo fluorescente directo 
-Vid.- test de
-anticorpo fluorescente directo
+Vid.- test de anticorpo fluorescente directo
+
 
 ##R  proba de broncodilatación
 Vid.- test de broncodilatación
@@ -33038,8 +33026,8 @@ Vid.- test de broncodilatación
 Vid.- test de colecistocinina
 
 ##R  proba de contacto
-Vid.- test de
-parche
+Vid.- test de parche
+
 
 ##C  4129  proba de dedo-dedo      m
 Probas complementarias
@@ -33060,8 +33048,8 @@ SIN.- manobra de dedo-nariz
 Vid.- test de deshidratación
 
 ##R  proba de dorsiflexión
-Vid.- test
-de dorsiflexión
+Vid.- test de dorsiflexión
+
 
 ##C  4131  proba de esforzo      f
 Probas complementarias
@@ -33074,15 +33062,15 @@ SIN.- test de esforzo (m)
 Vid.- test de estimulación
 
 ##R  proba de estimulación con adrenocorticotropina
-Vid.- test de estimulación con
-adrenocorticotropina
+Vid.- test de estimulación con adrenocorticotropina
+
 
 ##R  - proba de hemaglutinación 
 Vid.- test de hemaglutinación
 
 ##R  proba de hipóteses
-Vid.- test de
-hipóteses
+Vid.- test de hipóteses
+
 
 ##C  4132  proba de intradermorreacción    f
 Probas complementarias
@@ -33092,23 +33080,23 @@ SIN.- proba intradérmica
 @pt  prova intradérmica; teste de pele
 
 ##R  proba de latencias múltiples do sono      
-Vid.- test de latencias
-múltiples do sono
+Vid.- test de latencias múltiples do sono
+
 
 ##R  proba de provocación
-Vid.- test
-de provocación
+Vid.- test de provocación
+
 
 ##R  proba de supresión
-Vid.- test de
-supresión
+Vid.- test de supresión
+
 
 ##R  proba de tolerancia á lactosa 
 Vid.- test de tolerancia á lactosa
 
 ##R  proba de tolerancia oral á glicosa      
-Vid.- test de tolerancia oral
-á glicosa
+Vid.- test de tolerancia oral á glicosa
+
 
 ##C  4133  proba do antíxeno prostático específico      
 Probas complementarias
@@ -33118,27 +33106,27 @@ SIN.- proba do PSA
 @pt  teste do antígeno prostático específico; teste do PSA
 
 ##R  proba do edrofonio
-Vid.- test
-do edrofonio
+Vid.- test do edrofonio
+
 
 ##R  proba do fotoparche
-Vid.- test
-do fotoparche
+Vid.- test do fotoparche
+
 
 ##R  proba do PSA
-Vid.- proba do
-antíxeno prostático específico
+Vid.- proba do antíxeno prostático específico
+
 
 ##R  proba do reflexo corneal
 Vid.- test do reflexo corneal
 
 ##R  proba intradérmica 
-Vid.- proba
-de intradermorreacción
+Vid.- proba de intradermorreacción
+
 
 ##R  proba vestibular  
-Vid.- test
-vestibular
+Vid.- test vestibular
+
 
 
 ##C  4134  probas complementarias      f pl
@@ -33162,12 +33150,12 @@ Histoloxía
 @pt  procariota
 
 ##R  proceso accesorio
-Vid.- apófise
-accesoria
+Vid.- apófise accesoria
+
 
 ##R  proceso articular
-Vid.- apófise
-articular
+Vid.- apófise articular
+
 
 ##R  proceso cigomático
 Vid.- apófise cigomática
@@ -33180,40 +33168,40 @@ Anatomía
 @la  processus ciliaris
 
 ##R  proceso clinoide 
-Vid.- apófise
-clinoide
+Vid.- apófise clinoide
+
 
 ##R  proceso coracoide  
-Vid.- apófise
-coracoide
+Vid.- apófise coracoide
+
 
 ##R  proceso costal  
-Vid.- apófise
-costal
+Vid.- apófise costal
+
 
 ##R  proceso espiñoso
-Vid.- apófise
-espiñosa
+Vid.- apófise espiñosa
+
 
 ##R  proceso estiloide
-Vid.- apófise
-estiloide
+Vid.- apófise estiloide
+
 
 ##R  proceso mastoide
-Vid.- apófise
-mastoide
+Vid.- apófise mastoide
+
 
 ##R  proceso odontoide 
-Vid.- apófise
-odontoide
+Vid.- apófise odontoide
+
 
 ##R  proceso pterigoide
-Vid.- apófise
-pterigoide
+Vid.- apófise pterigoide
+
 
 ##R  proceso xifoide
-Vid.- apófise
-xifoide
+Vid.- apófise xifoide
+
 
 ##C  4138  procinético      m
 Farmacoloxía
@@ -33365,8 +33353,8 @@ Semioloxía        Etiopatoxenia
 Vid.- prolapso mitral
 
 ##R  prolapso do recto
-Vid.- prolapso
-rectal
+Vid.- prolapso rectal
+
 
 ##C  4159  prolapso mitral      m
 Patoloxías
@@ -33820,8 +33808,8 @@ VAR.- psora
 Vid.- hormona paratiroide
 
 ##R  PTI
-Vid.- púrpura trombopénica
-idiopática
+Vid.- púrpura trombopénica idiopática
+
 
 ##C  4223  ptialina      f
 Bioquímica        Fisioloxía
@@ -33847,8 +33835,8 @@ Semioloxía
 @pt  ptose
 
 ##R  PTT 
-Vid.- púrpura trombopénica
-trombótica
+Vid.- púrpura trombopénica trombótica
+
 
 ##C  4225  pube      f
 Anatomía
@@ -33934,8 +33922,8 @@ VAR.- pulsómetro
 @pt  pulsómetro
 
 ##R  pulsioximetría
-Vid.- oximetría de
-pulso
+Vid.- oximetría de pulso
+
 
 ##C  4236  pulsioxímetro      m
 Instrumental
@@ -33960,8 +33948,7 @@ Nota.- Designa a ‘sucesión das pulsacións arteriais’.
 
 ##C  4239  pulso alternante      m
 Semioloxía
-VAR.-
-pulsus alternans
+VAR.- pulsus alternans
 @es  pulso alternante; pulsus alternans
 @en  alternating pulse; pulsus alternans
 @pt  pulso alternante; pulsus alternans
@@ -33980,15 +33967,15 @@ Semioloxía
 Nota.- Evítese “pulso paradóxico”.
 
 ##R  *pulso paradóxico  
-Vid.- pulso
-paradoxal
+Vid.- pulso paradoxal
+
 
 ##R  pulsómetro
 Vid.- pulsímetro
 
 ##R  pulsus alternans
-Vid.- pulso
-alternante
+Vid.- pulso alternante
+
 
 ##R  pulverización
 Vid.- nebulización
@@ -34017,8 +34004,8 @@ Probas complementarias
 @pt  punção lombar
 
 ##R  punción-aspiración con agulla fina      
-Vid.- punción aspirativa con
-agulla fina
+Vid.- punción aspirativa con agulla fina
+
 
 ##R  punto de osificación
 Vid.- centro de osificación
@@ -34050,12 +34037,12 @@ Semioloxía
 Vid.- púrpura trombopénica
 
 ##R  púrpura trombocitopénica idiopática      
-Vid.- púrpura
-trombopénica idiopática
+Vid.- púrpura trombopénica idiopática
+
 
 ##R  púrpura trombocitopénica trombótica      
-Vid.- púrpura
-trombopénica trombótica
+Vid.- púrpura trombopénica trombótica
+
 
 ##C  4248  púrpura trombopénica      f
 Patoloxías
@@ -34436,13 +34423,9 @@ Bioquímica
 
 ##C  4301  radical libre de O2m
 Bioquímica
-@es  radical libre de O
-2
-@en  O
-2
-free radical
-@pt  radical livre de O
-2
+@es  radical libre de O2
+@en  O2free radical
+@pt  radical livre de O2
 
 ##C  4302  radical metilo      m
 Bioquímica
@@ -34482,10 +34465,10 @@ Termos xerais
 @pt  radiobiologia
 
 ##R  radiodensidade      
-Vid.- radioopacidade
-4308
+Vid.- radioopacidade 4308
 
-##R  radiodermatite      f
+
+##C  4310  radiodermatite      f
 Patoloxías
 VAR.- radiodermite
 @es  radiodermatitis; radiodermitis
@@ -34568,8 +34551,8 @@ SIN.- raíz motora; raíz ventral
 @la  radix anterior; radix motoria
 
 ##R  raíz do pulmón
-Vid.- raíz
-pulmonar
+Vid.- raíz pulmonar
+
 
 ##R  raíz dorsal 
 Vid.- raíz posterior
@@ -34607,12 +34590,12 @@ Vid.- raíz posterior
 Vid.- raíz anterior
 
 ##R  rampla timpánica
-Vid.- escala
-timpánica
+Vid.- escala timpánica
+
 
 ##R  rampla vestibular 
-Vid.- escala
-vestibular
+Vid.- escala vestibular
+
 
 ##R  raña    
 Vid.- sarna
@@ -34657,12 +34640,12 @@ Epidemioloxía
 @pt  razão de homens; razão de masculinidade
 
 ##R  razón de mulleres 
-Vid.- razón
-de feminidade
+Vid.- razón de feminidade
+
 
 ##R  razón de prevalencia
-Vid.- taxa
-de prevalencia
+Vid.- taxa de prevalencia
+
 
 ##C  4326  razón de probabilidade      f
 Epidemioloxía
@@ -34682,8 +34665,7 @@ Vid.- reabsorción ósea
 
 ##C  4327  reabsorción ósea      f
 Fisioloxía
-VAR.- resorción ósea; reabsorción do
-óso
+VAR.- resorción ósea; reabsorción do óso
 @es  reabsorción ósea; resorción ósea
 @en  bone reabsorption; bone resorption
 @pt  reabsorção óssea
@@ -34753,8 +34735,8 @@ SIN.- PCR (sg) VAR.- reacción en cadea pola polimerase
 @pt  PCR (sg); reação em cadeia dapolimerase [Br.]; reacção em cadeia da polimerase [Pt.]
 
 ##R  reacción en cadea pola polimerase      
-Vid.- reacción en
-cadea da polimerase
+Vid.- reacción en cadea da polimerase
+
 
 ##C  4338  reacción idiosincrática      f
 Fisioloxía
@@ -34890,8 +34872,7 @@ SIN.- recursos para a saúde
 
 ##C  4352  rede testicular      f
 Histoloxía        Anatomía
-VAR.-
-rete testis
+VAR.- rete testis
 @es  rede testicular; rete testis
 @en  rete testis
 @pt  rede testicular; rete testis
@@ -34931,10 +34912,9 @@ Semioloxía
 Semioloxía
 @es  reflejo bulbocavernoso
 @en  bulbocavernosus reflex; bulbocavernous reflex; bulbospongiosus reflex
-@pt  reflexo bulbocavernoso; reflexo bulbo-cavernoso
-4359
+@pt  reflexo bulbocavernoso; reflexo bulbo-cavernoso4359
 
-##R  reflexo corneal      m
+##C  4359  reflexo corneal      m
 Semioloxía
 SIN.- reflexo palpebral
 @es  reflejo corneal
@@ -34977,8 +34957,8 @@ Semioloxía
 @pt  reflexo glabelar
 
 ##R  reflexo miotático
-Vid.- reflexo
-muscular
+Vid.- reflexo muscular
+
 
 ##C  4365  reflexo muscular      m
 Semioloxía
@@ -35001,12 +34981,12 @@ SIN.- reflexo profundo
 @pt  reflexo osteotendinoso; reflexo profundo
 
 ##R  reflexo palpebral 
-Vid.- reflexo
-corneal
+Vid.- reflexo corneal
+
 
 ##R  reflexo profundo
-Vid.- reflexo
-osteotendinoso
+Vid.- reflexo osteotendinoso
+
 
 ##C  4368  reflexo vestibuloocular      m
 Semioloxía
@@ -35063,8 +35043,8 @@ Semioloxía        Etiopatoxenia
 @pt  regurgitação; regurgitamento
 
 ##R  regurxitación
-Vid.- insuficiencia
-valvular
+Vid.- insuficiencia valvular
+
 
 ##R  regurxitación aórtica      
 Vid.- insuficiencia aórtica
@@ -35100,8 +35080,8 @@ Fisioloxía
 @pt  reinervação
 
 ##R  REL
-Vid.- retículo endoplasmático
-liso
+Vid.- retículo endoplasmático liso
+
 
 ##C  4380  relación cintura-cadeira      f
 Probas complementarias
@@ -35222,8 +35202,8 @@ Fisioloxía
 @pt  reprodução
 
 ##R  RER  
-Vid.- retículo endoplasmático
-rugoso
+Vid.- retículo endoplasmático rugoso
+
 
 ##C  4395  resección      f
 Terapéutica
@@ -35232,8 +35212,8 @@ Terapéutica
 @pt  resecção
 
 ##R  residente
-Vid.- médico -ca
-residente
+Vid.- médico -ca residente
+
 
 ##C  4396  resistencia arterial      f
 Fisioloxía
@@ -35273,8 +35253,8 @@ SIN.- RMN (sg);  RM (sg);  RNM (sg) VAR.- resonancia magnética; resonancia nucl
 Vid.- resonancia magnética nuclear
 
 ##R  resorción ósea
-Vid.- reabsorción
-ósea
+Vid.- reabsorción ósea
+
 
 ##R  resorción tubular      
 Vid.- reabsorción tubular
@@ -35577,8 +35557,8 @@ SIN.- lombo (m) [pop.]
 @la  regio lumbaris
 
 ##R  rexión olfactoria da túnica mucosa nasal
-Vid.- mucosa
-olfactoria
+Vid.- mucosa olfactoria
+
 
 ##R  rexión palmar 
 Vid.- palma
@@ -35592,8 +35572,8 @@ SIN.- hipogastrio (m)
 @la  hypogastrium; regio pubica
 
 ##R  rexión respiratoria da túnica mucosa nasal
-Vid.- mucosa
-respiratoria nasal
+Vid.- mucosa respiratoria nasal
+
 
 ##C  4440  rexión umbilical      f
 Anatomía
@@ -35656,8 +35636,8 @@ Patoloxías
 @pt  rinite alérgica
 
 ##R  rinite catarral 
-Vid.- catarro
-común
+Vid.- catarro común
+
 
 ##R  rinofarinxe
 Vid.- nasofarinxe
@@ -35721,8 +35701,8 @@ Etiopatoxenia
 Vid.- riso sardónico
 
 ##R  risa sardónica
-Vid.- riso
-sardónico
+Vid.- riso sardónico
+
 
 ##C  4458  risco      m
 Epidemioloxía
@@ -35731,8 +35711,8 @@ Epidemioloxía
 @pt  risco
 
 ##R  risco absoluto
-Vid.- incidencia
-acumulada
+Vid.- incidencia acumulada
+
 
 ##C  4459  risco atribuíble      m
 Epidemioloxía
@@ -35754,8 +35734,8 @@ Xenética
 @pt  risco de recorrência
 
 ##R  risco excesivo
-Vid.- exceso de
-risco
+Vid.- exceso de risco
+
 
 ##C  4462  risco individual      m
 Epidemioloxía
@@ -35811,19 +35791,19 @@ SIN.- fenómeno da roda dentada
 @pt  rigidez em roda dentada
 
 ##R  RM
-Vid.- resonancia magnética
-nuclear
+Vid.- resonancia magnética nuclear
+
 
 ##R  RMN 
-Vid.- resonancia magnética
-nuclear
+Vid.- resonancia magnética nuclear
+
 
 ##R  RNA
 Vid.- ácido ribonucleico
 
 ##R  RNM
-Vid.- resonancia magnética
-nuclear
+Vid.- resonancia magnética nuclear
+
 
 ##C  4470  rodenticida      m
 Medicina preventiva
@@ -35866,8 +35846,8 @@ Semioloxía
 @pt  roséola
 
 ##R  roséola infantil
-Vid.- exantema
-súbito
+Vid.- exantema súbito
+
 
 ##R  rostro  
 Vid.- cara
@@ -36024,8 +36004,8 @@ Terapéutica
 @pt  safenectomia
 
 ##R  SAHS 
-Vid.- síndrome da
-apnea-hipopnea durante o sono
+Vid.- síndrome da apnea-hipopnea durante o sono
+
 
 ##C  4496  sal biliar      m
 Fisioloxía
@@ -36108,8 +36088,8 @@ Patoloxías
 @pt  salpingite
 
 ##R  sanatorio
-Vid.- hospital de media e
-longa estadía
+Vid.- hospital de media e longa estadía
+
 
 ##R  sangrado 
 Vid.- hemorraxia
@@ -36251,8 +36231,8 @@ Histoloxía
 @pt  secreção autócrina autócrina
 
 ##R  secreción écrina
-Vid.- secreción
-merócrina
+Vid.- secreción merócrina
+
 
 ##C  4527  secreción endócrina      f
 Histoloxía
@@ -36286,8 +36266,8 @@ Histoloxía
 @pt  secreção parácrina
 
 ##R  secreción vaxinal 
-Vid.- fluxo
-vaxinal
+Vid.- fluxo vaxinal
+
 
 ##C  4532  secretina      f
 Bioquímica        Fisioloxía
@@ -36574,8 +36554,8 @@ SIN.- tabique interatrial; septo interauricular; tabique interauricular
 @la  septum interatriale
 
 ##R  septo interauricular   
-Vid.- septo
-interatrial
+Vid.- septo interatrial
+
 
 ##C  4567  septo interventricular      m
 Anatomía
@@ -36616,8 +36596,8 @@ SIN.- Ser (sb)
 @pt  serina
 
 ##R  SERM
-Vid.- modulador selectivo
-do receptor de estróxeno
+Vid.- modulador selectivo do receptor de estróxeno
+
 
 ##R  serodiagnóstico 
 Vid.- diagnóstico serolóxico
@@ -36672,8 +36652,8 @@ Etiopatoxenia
 @pt  sexualização
 
 ##R  SFC
-Vid.- síndrome de fatiga
-crónica
+Vid.- síndrome de fatiga crónica
+
 
 ##C  4580  shigelose      f
 Patoloxías
@@ -36689,8 +36669,8 @@ Vid.- anastomose
 Vid.- curtocircuíto
 
 ##R  SIADH
-Vid.- síndrome de
-secreción inadecuada de ADH
+Vid.- síndrome de secreción inadecuada de ADH
+
 
 ##R  sialadenectomía      
 Vid.- sialoadenectomía
@@ -36768,8 +36748,8 @@ VAR.- sibilación
 @pt  sibilação
 
 ##R  sida 
-Vid.- síndrome de
-inmunodeficiencia adquirida
+Vid.- síndrome de inmunodeficiencia adquirida
+
 
 ##C  4590  sideremia      f
 Semioloxía
@@ -36828,20 +36808,20 @@ Vid.- sinal
 Vid.- pródromo
 
 ##R  signo da bufanda
-Vid.- sinal da
-bufanda
+Vid.- sinal da bufanda
+
 
 ##R  signo da cola de cometa      
 Vid.- sinal da cola de cometa
 
 
 ##R  signo da corda
-Vid.- sinal da
-corda
+Vid.- sinal da corda
+
 
 ##R  signo da gabeta
-Vid.- sinal da
-gabeta
+Vid.- sinal da gabeta
+
 
 ##R  signo da inclinación articular      
 Vid.- sinal da inclinación articular
@@ -36853,8 +36833,8 @@ Vid.- sinal da matidez cambiante
 Vid.- sinal da onda ascítica
 
 ##R  signo da silueta
-Vid.- sinal da
-silueta
+Vid.- sinal da silueta
+
 
 ##R  signo de Ballance
 Vid.- sinal de Ballance
@@ -36866,16 +36846,16 @@ Vid.- sinal da inclinación articular
 Vid.- sinal do broncograma aéreo
 
 ##R  signo do caixón
-Vid.- sinal da
-gabeta
+Vid.- sinal da gabeta
+
 
 ##R  signo do obturador 
-Vid.- sinal
-do obturador
+Vid.- sinal do obturador
+
 
 ##R  signo do psoas 
-Vid.- sinal do
-psoas
+Vid.- sinal do psoas
+
 
 ##R  signo vital 
 Vid.- sinal vital
@@ -36925,8 +36905,8 @@ Semioloxía
 @pt  sinais piramidais
 
 ##R  sinais vitais
-Vid.- constantes
-vitais
+Vid.- constantes vitais
+
 
 
 ##C  4602  sinal      m
@@ -36996,8 +36976,8 @@ SIN.- signo da silueta
 Vid.- signo de Ballance
 
 ##R  sinal de elevación da perna estendida      
-Vid.- test da elevación
-da perna en extensión
+Vid.- test da elevación da perna en extensión
+
 
 ##R  sinal de Hamman      
 Vid.- crepitación mediastínica
@@ -37014,8 +36994,8 @@ SIN.- signo do broncograma aéreo
 
 
 ##R  sinal do caixón
-Vid.- sinal da
-gabeta
+Vid.- sinal da gabeta
+
 
 ##C  4612  sinal do obturador      m
 Semioloxía
@@ -37032,8 +37012,8 @@ SIN.- signo do psoas
 @pt  sinal do psoas
 
 ##R  sinal do solpor 
-Vid.- ollar en
-solpor
+Vid.- ollar en solpor
+
 
 ##C  4614  sinal vital      m
 Probas complementarias
@@ -37202,7 +37182,8 @@ SIN.- acromelalxia
 @en  acromelalgia; restless legs syndrome
 @pt  acromelalgia; síndrome das pernas inquietas
 
-##C  4636  síndrome de abstinencia      f  Patoloxías
+##C  4636  síndrome de abstinencia      f
+Patoloxías
 @es  síndrome de abstinencia
 @en  withdrawal syndrome
 @pt  síndrome de abstinência
@@ -37217,8 +37198,8 @@ Patoloxías
 @pt  síndrome bradicardia-taquicardia
 
 ##R  síndrome de desconforto respiratorio agudo
-Vid.- síndrome de desconforto
-respiratorio do adulto
+Vid.- síndrome de desconforto respiratorio do adulto
+
 
 ##C  4638  síndrome de desconforto respiratorio do adulto      f 
 Probas complementarias        Patoloxías
@@ -37243,12 +37224,12 @@ SIN.- insuficiencia multiorgánica; fallo multiorgánico (m)
 @pt  falência de múltiplos órgãos; síndrome da disfunção de múltiplos órgãos
 
 ##R  síndrome de distrés respiratorio do adulto 
-Vid.- síndrome de desconforto
-respiratorio do adulto
+Vid.- síndrome de desconforto respiratorio do adulto
+
 
 ##R  síndrome de distrés respiratorio do neonato
-Vid.- síndrome de desconforto
-respiratorio do neonato
+Vid.- síndrome de desconforto respiratorio do neonato
+
 
 ##C  4641  síndrome de Down      f
 Patoloxías
@@ -37278,8 +37259,8 @@ SIN.- sida
 @pt  AIDS; SIDA; síndrome da imunodeficiência adquirida
 
 ##R  síndrome de insuficiencia da arteria basilar
-Vid.- síndrome da arteria
-vertebrobasilar
+Vid.- síndrome da arteria vertebrobasilar
+
 
 ##C  4645  síndrome de lise tumoral      f
 Patoloxías
@@ -37312,8 +37293,8 @@ SIN.- SRIS (sg)
 @pt  síndrome de resposta inflamatória sistêmica [Br.]; síndrome de resposta inflamatória sistémica [Pt.]
 
 ##R  síndrome de roubo da arteria subclavia      
-Vid.- síndrome de
-roubo da subclavia
+Vid.- síndrome de roubo da subclavia
+
 
 ##C  4649  síndrome de roubo da subclavia      f
 Patoloxías
@@ -37337,8 +37318,8 @@ SIN.- síndrome do atrapamento poplíteo
 @pt  síndrome do aprisionamento da artéria poplítea
 
 ##R  síndrome do atrapamento poplíteo      
-Vid.- síndrome do
-aprisionamento poplíteo
+Vid.- síndrome do aprisionamento poplíteo
+
 
 ##C  4652  síndrome do choque tóxico      f
 Patoloxías
@@ -37495,8 +37476,8 @@ Probas complementarias        Patoloxías
 Vid.- efecto sinérxico
 
 ##R  sinfibrose
-Vid.- articulación
-fibrosa
+Vid.- articulación fibrosa
+
 
 ##C  4673  sínfise      f
 Anatomía
@@ -37605,8 +37586,7 @@ Patoloxías
 
 ##C  4688  sirolimo      m
 Farmacoloxía
-VAR.-
-sirolimus
+VAR.- sirolimus
 @es  sirolimo; sirolimus
 @en  sirolimus
 @pt  sirolimo; sirolimus
@@ -37650,8 +37630,8 @@ Fisioloxía
 Vid.- sistema HLA
 
 ##R  sistema de saúde
-Vid.- sistema
-sanitario
+Vid.- sistema sanitario
+
 
 ##C  4693  sistema dixestivo      m
 Anatomía
@@ -37684,8 +37664,8 @@ SIN.- sistema de histocompatibilidade humano
 @pt  sistema HLA
 
 ##R  sistema inmune
-Vid.- sistema
-inmunitario
+Vid.- sistema inmunitario
+
 
 ##C  4696  sistema inmunitario      m
 Fisioloxía
@@ -37877,12 +37857,12 @@ Vid.- tenia
 Vid.- teníase
 
 ##R  solo da pelve
-Vid.- diafragma da
-pelve
+Vid.- diafragma da pelve
+
 
 ##R  solo pelviano
-Vid.- diafragma da
-pelve
+Vid.- diafragma da pelve
+
 
 ##C  4719  solución      f
 Farmacoloxía
@@ -38038,15 +38018,15 @@ Vid.- antisoro
 Vid.- solución salina
 
 ##R  SPECT
-Vid.- tomografía por
-emisión de fotón único
+Vid.- tomografía por emisión de fotón único
+
 
 ##R  spray 
 Vid.- aerosol
 
 ##R  SRIS
-Vid.- síndrome de resposta
-inflamatoria sistémica
+Vid.- síndrome de resposta inflamatoria sistémica
+
 
 ##C  4737  suavizante      m
 Farmacoloxía
@@ -38178,8 +38158,8 @@ Termos xerais
 @la  superficialis
 
 ##R  superficie articular
-Vid.- face
-articular
+Vid.- face articular
+
 
 ##C  4754  superior      a
 Anatomía
@@ -38276,8 +38256,8 @@ Anatomía
 @la  sutura squamosa
 
 ##R  sutura harmónica
-Vid.- sutura
-plana
+Vid.- sutura plana
+
 
 ##C  4767  sutura plana      f
 Anatomía
@@ -38288,8 +38268,8 @@ SIN.- sutura harmónica
 @la  sutura plana
 
 ##R  sutura serrátil 
-Vid.- sutura
-dentada
+Vid.- sutura dentada
+
 
 ##R  T
 Vid.- timina
@@ -38338,19 +38318,19 @@ Vid.- septo atrioventricular
 Vid.- septo atrioventricular
 
 ##R  tabique bronquial 
-Vid.- carina
-traqueal
+Vid.- carina traqueal
+
 
 ##R  tabique das fosas nasais      
 Vid.- septo nasal
 
 ##R  tabique femoral
-Vid.- septo
-femoral
+Vid.- septo femoral
+
 
 ##R  tabique interatrial
-Vid.- septo
-interatrial
+Vid.- septo interatrial
+
 
 
 ##R  tabique interauricular 
@@ -38445,8 +38425,8 @@ SIN.- infundíbulo hipofisario; talo pituitario
 @la  infundibulum
 
 ##R  talo pituitario 
-Vid.- talo
-hipofisario
+Vid.- talo hipofisario
+
 
 ##C  4783  talón      m
 Anatomía
@@ -38576,8 +38556,8 @@ SIN.- letalidade
 @pt  letalidade; taxa de letalidade
 
 ##R  taxa de morbididade  
-Vid.- taxa
-de morbilidade
+Vid.- taxa de morbilidade
+
 
 ##C  4799  taxa de morbilidade      f
 Epidemioloxía
@@ -38601,8 +38581,8 @@ SIN.- taxa de mortalidade neonatal temperá
 @pt  taxa de mortalidade neonatal precoce
 
 ##R  taxa de mortalidade neonatal serodia      
-Vid.- taxa de mortalidade
-neonatal tardía
+Vid.- taxa de mortalidade neonatal tardía
+
 
 
 ##C  4802  taxa de mortalidade neonatal tardía      f
@@ -38613,8 +38593,8 @@ SIN.- taxa de mortalidade neonatal serodia
 @pt  taxa de mortalidade neonatal tardia
 
 ##R  taxa de mortalidade neonatal temperá      
-Vid.- taxa de mortalidade
-neonatal precoz
+Vid.- taxa de mortalidade neonatal precoz
+
 
 ##C  4803  taxa de mortalidade perinatal  f
 Epidemioloxía
@@ -38658,8 +38638,8 @@ SIN.- taxoide
 Vid.- taxano
 
 ##R  TC
-Vid.- tomografía
-computadorizada
+Vid.- tomografía computadorizada
+
 
 ##C  4809  teca      f
 Histoloxía
@@ -38674,8 +38654,8 @@ Histoloxía
 @pt  tecido
 
 ##R  tecido adenoide
-Vid.- tecido
-linfoide
+Vid.- tecido linfoide
+
 
 ##C  4811  tecido adiposo      m
 Histoloxía
@@ -38698,8 +38678,8 @@ SIN.- tecido conxuntivo
 @pt  tecido conectivo; tecido conjuntivo
 
 ##R  tecido conxuntivo
-Vid.- tecido
-conectivo
+Vid.- tecido conectivo
+
 
 ##C  4814  tecido de granulación      m
 Anatomía patolóxica
@@ -38714,8 +38694,8 @@ Histoloxía
 @pt  tecido epitelial
 
 ##R  tecido linfático
-Vid.- tecido
-linfoide
+Vid.- tecido linfoide
+
 
 ##C  4816  tecido linfoide      m
 Histoloxía
@@ -38915,16 +38895,16 @@ Vid.- estrés
 Vid.- presión arterial
 
 ##R  tensión alta  
-Vid.- hipertensión
-arterial
+Vid.- hipertensión arterial
+
 
 ##R  tensión arterial 
-Vid.- presión
-arterial
+Vid.- presión arterial
+
 
 ##R  tentorio do cerebelo
-Vid.- tenda
-do cerebelo
+Vid.- tenda do cerebelo
+
 
 ##C  4841  teofilina      f
 Farmacoloxía
@@ -38933,8 +38913,8 @@ Farmacoloxía
 @pt  teofilina
 
 ##R  TEP  
-Vid.- tomografía por emisión
-de positróns
+Vid.- tomografía por emisión de positróns
+
 
 ##C  4842  terapeuta      s
 Termos xerais
@@ -38987,8 +38967,8 @@ Vid.- reflexoterapia
 Vid.- vitaminoterapia
 
 ##R  terapia xenética 
-Vid.- terapia
-xénica
+Vid.- terapia xénica
+
 
 ##C  4845  terapia xénica      f
 Xenética
@@ -39034,8 +39014,8 @@ VAR.- teratospermia
 @pt  teratospermia; teratozoospermia
 
 ##R  terceiro molar  
-Vid.- dente molar
-terceiro
+Vid.- dente molar terceiro
+
 
 ##C  4851  terceiro ruído cardíaco      m
 Semioloxía
@@ -39055,8 +39035,8 @@ SIN.- ventrículo medio; ventrículo diencefálico
 Vid.- causalxia
 
 ##R  terminador 
-Vid.- secuencia de
-terminación
+Vid.- secuencia de terminación
+
 
 ##C  4853  termocoagulación      f
 Terapéutica
@@ -39222,8 +39202,8 @@ SIN.- proba de broncodilatación (f)
 @pt  teste de broncodilatação
 
 ##R  test de CCK
-Vid.- test de
-colecistocinina
+Vid.- test de colecistocinina
+
 
 ##C  4876  test de colecistocinina      m
 Probas complementarias
@@ -39233,8 +39213,8 @@ SIN.- test de CCK; proba de colecistocinina (f)
 @pt  teste de CCK; teste de colecistocinina; teste de colecistoquinina
 
 ##R  test de contacto 
-Vid.- test de
-parche
+Vid.- test de parche
+
 
 ##C  4877  test de deshidratación      m
 Probas complementarias
@@ -39251,8 +39231,8 @@ SIN.- proba de dorsiflexión (f)
 @pt  teste de dorsiflexão
 
 ##R  test de esforzo
-Vid.- proba de
-esforzo
+Vid.- proba de esforzo
+
 
 
 ##C  4879  test de estimulación      m
@@ -39263,8 +39243,8 @@ SIN.- proba de estimulación (f)
 @pt  teste de estimulação
 
 ##R  test de estimulación con ACTH      
-Vid.- test de estimulación con
-adrenocorticotropina
+Vid.- test de estimulación con adrenocorticotropina
+
 
 ##C  4880  test de estimulación con adrenocorticotropina      m
 Probas complementarias
@@ -39288,8 +39268,8 @@ SIN.- contraste de hipóteses; proba de hipóteses (f)
 @pt  teste de hipóteses
 
 ##R  test de inmunofluorescencia directa      
-Vid.- test de anticorpo
-fluorescente directo
+Vid.- test de anticorpo fluorescente directo
+
 
 ##C  4883  test de latencias múltiples do sono      m
 Probas complementarias
@@ -39356,13 +39336,13 @@ SIN.- proba do reflexo corneal (f)
 @pt  teste do reflexo corneano
 
 ##R  test FTA-ABS
-Vid.- test
-de absorción de anticorpos
+Vid.- test de absorción de anticorpos
+
 treponémicos fluorescentes
 
 ##R  test provocativo
-Vid.- test de
-provocación
+Vid.- test de provocación
+
 
 ##C  4892  test vestibular      m
 Probas complementarias
@@ -39442,8 +39422,8 @@ Xenética
 Vid.- treonina
 
 ##R  THS
-Vid.- terapia de reposición
-hormonal
+Vid.- terapia de reposición hormonal
+
 
 ##C  4902  tiacida      f
 Farmacoloxía
@@ -39575,8 +39555,8 @@ Vid.- miringocentese
 Vid.- miringocentese
 
 ##R  tinguidura ácido-alcohol-resistente      
-Vid.- tinguidura
-acidorresistente
+Vid.- tinguidura acidorresistente
+
 
 
 ##C  4918  tinguidura acidorresistente      f
@@ -39680,8 +39660,8 @@ Patoloxías
 Nota.- Designa o ‘efecto producido polo exceso de hormonas tiroides’. Cfr. con “hipertiroidismo”.
 
 ##R  tirotropina
-Vid.- hormona
-estimuladora da tiroide
+Vid.- hormona estimuladora da tiroide
+
 
 ##C  4931  tiroxina      f
 Bioquímica        Fisioloxía
@@ -39740,8 +39720,8 @@ SIN.- TC (sg)
 @pt  TC (sg); tomografía computadorizada
 
 ##R  tomografía computadorizada por emisión de fotón único
-Vid.- tomografía por emisión de fotón
-único
+Vid.- tomografía por emisión de fotón único
+
 
 
 ##C  4937  tomografía por emisión de fotón único      f
@@ -39831,8 +39811,8 @@ Anatomía
 @la  thorax
 
 ##R  tórax en funil
-Vid.- tórax
-escavado
+Vid.- tórax escavado
+
 
 ##C  4948  tórax en quilla      m
 Semioloxía
@@ -39849,8 +39829,8 @@ SIN.- tórax enfisematoso
 @pt  tórax em barril; tórax em tonel; tórax enfisematoso
 
 ##R  tórax enfisematoso 
-Vid.- tórax
-en tonel
+Vid.- tórax en tonel
+
 
 ##C  4950  tórax escavado      m
 Semioloxía
@@ -39970,8 +39950,8 @@ Anatomía
 @la  tractus
 
 ##R  tracto olfactivo
-Vid.- tracto
-olfactorio
+Vid.- tracto olfactorio
+
 
 
 ##C  4966  tracto olfactorio      m
@@ -39991,8 +39971,8 @@ SIN.- cintiña óptica (f)
 @la  tractus opticus
 
 ##R  tracto respiratorio
-Vid.- vía
-aérea
+Vid.- vía aérea
+
 
 ##R  tracto uveal 
 Vid.- úvea
@@ -40156,8 +40136,8 @@ Xenética
 
 
 ##R  transposición das grandes arterias      
-Vid.- transposición dos
-grandes vasos
+Vid.- transposición dos grandes vasos
+
 
 ##C  4991  transposición dos grandes vasos      f
 Patoloxías
@@ -40373,19 +40353,19 @@ SIN.- trefinación
 @pt  trefinação; trepanação
 
 ##R  TRH
-Vid.- hormona liberadora de
-tirotropina
+Vid.- hormona liberadora de tirotropina
+
 
 ##R  TRH
-Vid.- terapia de reposición
-hormonal
+Vid.- terapia de reposición hormonal
+
 
 ##R  triángulo de Scarpa
 Vid.- trígono femoral
 
 ##R  triángulo femoral 
-Vid.- trígono
-femoral
+Vid.- trígono femoral
+
 
 
 ##C  5019  tricomoníase      f
@@ -40407,8 +40387,8 @@ Bioquímica
 Vid.- fórnix
 
 ##R  trígono da vexiga 
-Vid.- trígono
-vesical
+Vid.- trígono vesical
+
 
 ##C  5021  trígono femoral      m
 Anatomía
@@ -40470,8 +40450,7 @@ SIN.- Trp (sb)
 
 ##C  5028  trismo      m
 Semioloxía
-VAR.-
-trismus
+VAR.- trismus
 @es  trismo; trismus
 @en  trismus
 @pt  trismo
@@ -40507,8 +40486,8 @@ Instrumental
 @pt  trocarte
 
 ##R  troco gasoso 
-Vid.- intercambio
-gasoso
+Vid.- intercambio gasoso
+
 
 ##R  trombase
 Vid.- trombina
@@ -40629,16 +40608,16 @@ Bioquímica        Fisioloxía
 @pt  tromboxano
 
 ##R  trompa auditiva
-Vid.- tuba
-auditiva
+Vid.- tuba auditiva
+
 
 ##R  trompa de Eustaquio
-Vid.- tuba
-auditiva
+Vid.- tuba auditiva
+
 
 ##R  trompa de Falopio
-Vid.- tuba
-uterina
+Vid.- tuba uterina
+
 
 ##R  trompa uterina
 Vid.- tuba uterina
@@ -40655,8 +40634,8 @@ Anatomía
 Vid.- tronco braquiocefálico
 
 ##R  tronco basilar  
-Vid.- arteria
-basilar
+Vid.- arteria basilar
+
 
 ##C  5049  tronco braquiocefálico      m
 Anatomía
@@ -40705,19 +40684,19 @@ Bioquímica
 @pt  troponina
 
 ##R  troquino
-Vid.- tubérculo menor do
-úmero
+Vid.- tubérculo menor do úmero
+
 
 ##R  troquíter
-Vid.- tubérculo maior do
-úmero
+Vid.- tubérculo maior do úmero
+
 
 ##R  Trp  
 Vid.- triptófano
 
 ##R  TSH
-Vid.- hormona estimuladora
-da tiroide
+Vid.- hormona estimuladora da tiroide
+
 
 
 ##C  5055  tuba auditiva      f
@@ -40780,8 +40759,8 @@ SIN.- troquíter
 @la  tuberculum majus humeri
 
 ##R  tubérculo mamilar 
-Vid.- corpo
-mamilar
+Vid.- corpo mamilar
+
 
 ##C  5061  tubérculo menor do úmero    m
 Anatomía
@@ -40907,8 +40886,8 @@ SIN.- osteoclastoma
 Vid.- cancro
 
 ##R  tumor maligno da ampola de Vater      
-Vid.- carcinoma da ampola
-de Vater
+Vid.- carcinoma da ampola de Vater
+
 
 ##R  tumor mucoso
 Vid.- mixoma
@@ -40953,12 +40932,12 @@ Vid.- tirosina
 Vid.- uracilo
 
 ##R  UCI 
-Vid.- unidade de coidados
-intensivos
+Vid.- unidade de coidados intensivos
+
 
 ##R  UFC
-Vid.- unidade formadora de
-colonias
+Vid.- unidade formadora de colonias
+
 
 ##C  5080  úlcera      f
 Semioloxía        Patoloxías
@@ -41073,8 +41052,8 @@ SIN.- uña encravada; onicocriptose
 @pt  onicocriptose; unha encravada
 
 ##R  uña encravada
-Vid.- uña
-encarnada
+Vid.- uña encarnada
+
 
 ##C  5093  uracilo      m
 Bioquímica
@@ -41311,8 +41290,8 @@ SIN.- úvula; campaíña [pop.]; pingallón (m) [pop.]; pinguelo (m) [pop.]
 Vid.- estafilotomía
 
 ##R  V par cranial 
-Vid.- nervio
-trixémino
+Vid.- nervio trixémino
+
 
 ##R  vaccinum
 Vid.- vacina
@@ -41320,8 +41299,7 @@ Vid.- vacina
 
 ##C  5124  vacina      f
 Medicina preventiva
-VAR.-
-vaccinum
+VAR.- vaccinum
 @es  vacuna
 @en  vaccine
 @pt  vacina
@@ -41406,8 +41384,8 @@ SIN.- cúspide
 @la  cuspis
 
 ##R  valva semilunar 
-Vid.- válvula
-semilunar
+Vid.- válvula semilunar
+
 
 
 ##C  5136  valvotomía      f
@@ -41447,8 +41425,8 @@ Vid.- válvula tricúspide
 Vid.- válvula mitral
 
 ##R  válvula bicúspide
-Vid.- válvula
-mitral
+Vid.- válvula mitral
+
 
 ##C  5140  válvula de derivación      f
 Terapéutica
@@ -41460,8 +41438,8 @@ Terapéutica
 Vid.- válvula pulmonar
 
 ##R  válvula ileal
-Vid.- válvula
-ileocecal
+Vid.- válvula ileocecal
+
 
 ##C  5141  válvula ileocecal      f
 Anatomía
@@ -41497,8 +41475,8 @@ SIN.- válvula sigmoide; valva semilunar
 @la  valvula semilunaris
 
 ##R  válvula sigmoide
-Vid.- válvula
-semilunar
+Vid.- válvula semilunar
+
 
 ##C  5145  válvula tricúspide      f
 Anatomía
@@ -41642,8 +41620,8 @@ Terapéutica
 @pt  vasoligadura
 
 ##R  vasopresina
-Vid.- hormona
-antidiurética
+Vid.- hormona antidiurética
+
 
 ##C  5164  vasoprotector      m
 Farmacoloxía
@@ -41751,8 +41729,8 @@ SIN.- tronco venoso braquiocefálico (m)
 
 
 ##R  vea cava ascendente 
-Vid.- vea
-cava inferior
+Vid.- vea cava inferior
+
 
 ##C  5176  vea cava inferior      f
 Anatomía
@@ -41777,15 +41755,15 @@ Anatomía
 @la  vena cephalica
 
 ##R  vea coronaria
-Vid.- vea do
-corazón
+Vid.- vea do corazón
+
 
 ##R  vea cubital 
 Vid.- vea ulnar
 
 ##R  vea cubital mediana
-Vid.- vea
-mediana cubital
+Vid.- vea mediana cubital
+
 
 ##C  5179  vea da columna vertebral      f
 Anatomía
@@ -41854,8 +41832,8 @@ SIN.- hemiácigos; hemiázigos VAR.- vea hemiázigos
 @la  vena hemiazygos
 
 ##R  vea hemiázigos
-Vid.- vea
-hemiácigos
+Vid.- vea hemiácigos
+
 
 ##C  5188  vea hepática      f
 Anatomía
@@ -41888,8 +41866,8 @@ Anatomía
 @la  vena iliaca interna
 
 ##R  vea ilíaca primitiva   
-Vid.- vea
-ilíaca común
+Vid.- vea ilíaca común
+
 
 ##C  5192  vea intercostal      f
 Anatomía
@@ -41899,12 +41877,12 @@ Anatomía
 @la  vena intercostalis
 
 ##R  vea mamaria externa
-Vid.- vea
-torácica lateral
+Vid.- vea torácica lateral
+
 
 ##R  vea mamaria interna 
-Vid.- vea
-torácica interna
+Vid.- vea torácica interna
+
 
 ##C  5193  vea mediana cubital      f
 Anatomía
@@ -41983,12 +41961,12 @@ Anatomía
 @la  vena renalis
 
 ##R  vea safena externa
-Vid.- vea
-safena menor
+Vid.- vea safena menor
+
 
 ##R  vea safena interna
-Vid.- vea
-safena magna
+Vid.- vea safena magna
+
 
 ##C  5203  vea safena magna      f
 Anatomía
@@ -42015,8 +41993,8 @@ Anatomía
 @la  vena subclavia
 
 ##R  vea suprahepática 
-Vid.- vea
-hepática
+Vid.- vea hepática
+
 
 ##C  5206  vea suprarrenal      f
 Anatomía
@@ -42127,8 +42105,8 @@ SIN.- velocidade de sedimentación globular; VSG (sg)
 @pt  velocidade de hemossedimentação [Br.]; velocidade de sedimentação eritrocitária [Pt.]
 
 ##R  velocidade de sedimentación globular      
-Vid.- velocidade de
-sedimentación dos glóbulos vermellos
+Vid.- velocidade de sedimentación dos glóbulos vermellos
+
 
 ##C  5220  vendaxe      f
 Farmacoloxía
@@ -42248,8 +42226,8 @@ SIN.- barriga (f) [pop.]
 @la  venter
 
 ##R  ventre de madeira
-Vid.- abdome
-en táboa
+Vid.- abdome en táboa
+
 
 ##R  ventrículo aórtico 
 Vid.- ventrículo esquerdo
@@ -42281,8 +42259,8 @@ Anatomía
 @la  ventriculus lateralis
 
 ##R  ventrículo medio
-Vid.- terceiro
-ventrículo
+Vid.- terceiro ventrículo
+
 
 ##C  5235  ventriculografía      f
 Probas complementarias
@@ -42369,8 +42347,8 @@ Anatomía
 @la  vertebra coccygea
 
 ##R  vértebra dorsal 
-Vid.- vértebra
-torácica
+Vid.- vértebra torácica
+
 
 ##C  5245  vértebra lumbar      f
 Anatomía
@@ -42415,8 +42393,8 @@ SIN.- vertixe postural
 @pt  vertigem posicional; vertigem postural
 
 ##R  vertixe postural
-Vid.- vertixe
-posicional
+Vid.- vertixe posicional
+
 
 ##R  vesicofixación
 Vid.- cistopexia
@@ -42504,8 +42482,8 @@ Vid.- ampola
 Vid.- vexiga urinaria
 
 ##R  vexiga atónica 
-Vid.- vexiga
-fláccida
+Vid.- vexiga fláccida
+
 
 ##R  vexiga biliar 
 Vid.- vesícula biliar
@@ -42542,8 +42520,8 @@ Vid.- varíola
 Vid.- virus herpes simple
 
 ##R  VI par cranial
-Vid.- nervio
-abducente
+Vid.- nervio abducente
+
 
 ##C  5262  vía aérea      f
 Anatomía
@@ -42553,12 +42531,12 @@ SIN.- vía respiratoria; tracto respiratorio (m)
 @pt  via aérea; via respiratória
 
 ##R  vía endovenosa
-Vid.- vía
-intravenosa
+Vid.- vía intravenosa
+
 
 ##R  vía hipodérmica 
-Vid.- vía
-subcutánea
+Vid.- vía subcutánea
+
 
 ##C  5263  vía inhalatoria      f
 Farmacoloxía
@@ -42628,8 +42606,8 @@ VAR.- vía parentérica
 @pt  via parenteral; via parentérica
 
 ##R  vía parentérica
-Vid.- vía
-parenteral
+Vid.- vía parenteral
+
 
 ##C  5273  vía rectal      f
 Farmacoloxía
@@ -42699,16 +42677,16 @@ Etiopatoxenia
 Vid.- tempa
 
 ##R  VIH  
-Vid.- virus da
-inmunodeficiencia humana
+Vid.- virus da inmunodeficiencia humana
+
 
 
 ##R  VII par cranial 
 Vid.- nervio facial
 
 ##R  VIII par cranial 
-Vid.- nervio
-vestibulococlear
+Vid.- nervio vestibulococlear
+
 
 ##C  5283  vilosidade      f
 Histoloxía
@@ -42727,8 +42705,8 @@ SIN.- vilosidade placentaria
 Vid.- vilosidade coriónica
 
 ##R  VIP
-Vid.- péptido intestinal
-vasoactivo
+Vid.- péptido intestinal vasoactivo
+
 
 ##C  5285  viremia      f
 Semioloxía
@@ -42777,8 +42755,8 @@ Etiopatoxenia
 Vid.- citomegalovirus
 
 ##R  virus da gripe
-Vid.- virus da
-influenza
+Vid.- virus da influenza
+
 
 ##C  5291  virus da hepatite      m
 Etiopatoxenia
@@ -42808,8 +42786,8 @@ Etiopatoxenia
 @pt  vírus da parainfluenza; vírus parainfluenza
 
 ##R  virus da SIDA
-Vid.- virus da
-inmunodeficiencia humana
+Vid.- virus da inmunodeficiencia humana
+
 
 ##C  5295  virus do papiloma humano    m
 Etiopatoxenia
@@ -42993,8 +42971,8 @@ Fisioloxía
 @pt  vigília
 
 ##R  VLDL
-Vid.- lipoproteína de moi
-baixa densidade
+Vid.- lipoproteína de moi baixa densidade
+
 
 ##C  5319  volemia      f
 Fisioloxía
@@ -43051,8 +43029,8 @@ SIN.- VR (sg)
 @pt  volume residual; VR (sg)
 
 ##R  volume tidal
-Vid.- volume
-corrente
+Vid.- volume corrente
+
 
 ##C  5327  vólvulo      m
 Patoloxías
@@ -43085,23 +43063,23 @@ Vid.- hematemese
 Vid.- febre amarela
 
 ##R  VPH
-Vid.- virus do papiloma
-humano
+Vid.- virus do papiloma humano
+
 
 ##R  VR
 Vid.- volume residual
 
 ##R  VRE
-Vid.- volume de reserva
-expiratoria
+Vid.- volume de reserva expiratoria
+
 
 ##R  VRI  
-Vid.- volume de reserva
-inspiratoria
+Vid.- volume de reserva inspiratoria
+
 
 ##R  VSG
-Vid.- velocidade de
-sedimentación dos glóbulos vermellos
+Vid.- velocidade de sedimentación dos glóbulos vermellos
+
 
 ##R  VT
 Vid.- volume corrente
@@ -43146,19 +43124,19 @@ Farmacoloxía
 Nota.- Evítese “champú”.
 
 ##R  xanela coclear 
-Vid.- ventá
-redonda
+Vid.- ventá redonda
+
 
 ##R  xanela oval
 Vid.- ventá oval
 
 ##R  xanela redonda 
-Vid.- ventá
-redonda
+Vid.- ventá redonda
+
 
 ##R  xanela vestibular
-Vid.- ventá
-oval
+Vid.- ventá oval
+
 
 ##C  5335  xantelasma      m
 Semioloxía
@@ -43229,8 +43207,8 @@ Farmacoloxía
 @pt  gel
 
 ##R  xemelgos
-Vid.- xemelgos
-monocigóticos
+Vid.- xemelgos monocigóticos
+
 
 ##R  xemelgos biovulares 
 Vid.- xemelgos dicigóticos
@@ -43263,8 +43241,8 @@ SIN.- siameses; xemelgos unidos
 @pt  gêmeos siameses [Br.]; gémeos siameses[Pt]; gêmeos unidos [Br.]; gémeos unidos [Pt.]
 
 ##R  xemelgos unidos
-Vid.- xemelgos
-siameses
+Vid.- xemelgos siameses
+
 
 ##R  xemelgos uniovulares
 Vid.- xemelgos monocigóticos
@@ -43495,8 +43473,8 @@ Terapéutica
 Vid.- embarazo
 
 ##R  xestión de riscos
-Vid.- control de
-riscos
+Vid.- control de riscos
+
 
 ##C  5379  xexuno      m
 Anatomía
@@ -43512,8 +43490,8 @@ Terapéutica
 @pt  jejunostomia
 
 ##R  XI par cranial  
-Vid.- nervio
-accesorio
+Vid.- nervio accesorio
+
 
 ##C  5381  xiardíase      f
 Patoloxías
@@ -43538,8 +43516,8 @@ SIN.- somatomegalia (f)
 
 
 ##R  XII par cranial 
-Vid.- nervio
-hipogloso
+Vid.- nervio hipogloso
+
 
 ##C  5384  xinecólogo -ga      s
 Organización sanitaria
