@@ -4,7 +4,7 @@ file1 = open('medicina.xml', 'r', encoding='utf-8')
 text = file1.read()
 
 # new file for the parsed xml
-file2 = open('parsedxml.xml', 'w', encoding='utf-8')
+file2 = open('parsedxml1.txt', 'w', encoding='utf-8')
 
 # remove header and page number
 def remove_header_footer(text):
@@ -83,16 +83,16 @@ while re.search(r'(##C.*?)\n(.*?)\n[^\@|SIN|VAR]', text):
     text = re.sub(r'(##C.*?)\n(.*?)\n([^\@|SIN|VAR].*?)\n', r'\1\n\2\3\n', text)
 
 # correct multi lined "SIN.-"
-while re.search(r'(SIN\.-.*?)\n[^\@]', text):
-    text = re.sub(r'(SIN\.-.*?)\n([^\@].*?)\n', r'\1 \2\n', text)
+while re.search(r'(SIN\.-.*?)\n[^\@|V]', text):
+    text = re.sub(r'(SIN\.-.*?)\n([^\@|V].*?)\n', r'\1 \2\n', text)
 
 # correct multi lined "Vid.-"
 while re.search(r'(Vid\.-?.*?)\n(.+?)\n', text):
     text = re.sub(r'(Vid\.-?.*?)\n(.+?)\n', r'\1 \2\n\n', text)
 
 # correct multi lined "VAR.-"
-while re.search(r'(VAR\.-.*?)\n[^\@]', text):
-    text = re.sub(r'(VAR\.-.*?)\n([^\@].*?)\n', r'\1 \2\n', text)
+while re.search(r'(VAR\.-.*?)\n[^\@|S]', text):
+    text = re.sub(r'(VAR\.-.*?)\n([^\@|S].*?)\n', r'\1 \2\n', text)
 
 # correct multi lined languages
 while re.search(r'(\@.*?)\n[^\@|\s|NOTA]', text):

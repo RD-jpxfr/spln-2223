@@ -1,6 +1,6 @@
 import re
 
-file = open('parsedxml.xml', 'r', encoding='utf-8')
+file = open('parsedxml.txt', 'r', encoding='utf-8')
 text = file.readlines()
 
 EC = []
@@ -71,11 +71,10 @@ while i<len(text):
         i = store_ER(text, i)
     if re.search(r'##C (.*?)\n', text[i]):
         i = store_EC(text, i)
-    i = i + 1
-    print(i)
+    i += 1
 
 
-print(EC)
-print(ER)
+print(len(EC))
+print(len(ER))
 
 file.close()
